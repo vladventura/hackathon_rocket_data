@@ -1,0 +1,9 @@
+# Dev Environment settings
+.vscode/
+
+# Virtual environment
+pyvenv.cfg
+bin/
+
+# Packages
+lib/
