@@ -1,9 +1,8 @@
-Date and Time,Rocket,Flight Number,Country,Launch Site,LSP,Payload,Operator,Orbit,Function,Decay,Outcome,Remarks
+Date and Time,Rocket,Flight Number,Launch Country,Launch Site,LSP,Payload,Operator,Orbit,Function,Decay,Outcome,Remarks
 7 January02:19:21,Falcon 9 Block 5,Starlink V1.0-L2,United States,Cape Canaveral SLC-40,SpaceX,Starlink × 60,SpaceX,Low Earth,Communications,In orbit,Operational
 7 January15:20:14,Long March 3B/E,3B-Y62,China,Xichang LC-2,CASC,TJSW-5,Ministry of Agriculture and Rural Affairs,Geosynchronous,Technology demonstration,In orbit,Operational
 15 January02:53,Long March 2D,2D-Y58,China,Taiyuan LC-9,CASC,"Jilin-1 Kuanfu-01 (Wideband-01)
-ÑuSat 7
-                (Sophie)
+ÑuSat 7 (Sophie)
 ÑuSat 8 (Marie)
 Tianqi-5","Chang Guang Satellite Technology
 Satellogic
@@ -22,8 +21,7 @@ Operational
 Operational
 Operational"
 16 January03:02,Kuaizhou 1A,Y9,China,Jiuquan LA-4,ExPace,Yinhe-1 / GS-SparkSat-03 / Galaxy-1,Galaxy Space,Low Earth (SSO),Technology demonstration,In orbit,Operational
-16 January21:05,Ariane 5 ECA,VA251,France,Kourou ELA-3,Arianespace,"Eutelsat
-                    Konnect
+16 January21:05,Ariane 5 ECA,VA251,France,Kourou ELA-3,Arianespace,"Eutelsat Konnect
 GSAT-30","Eutelsat
 ISRO","Geosynchronous
 Geosynchronous","Communications
@@ -31,44 +29,41 @@ Communications","In orbit
 In orbit","Operational
 Operational","
 GSAT-30 will replace INSAT-4A.
-            
 "
 29 January14:06:49,Falcon 9 Block 5,Starlink V1.0-L3,United States,Cape Canaveral SLC-40,SpaceX,Starlink × 60,SpaceX,Low Earth,Communications,In orbit,Operational
 31 January02:56,Electron,"""Birds of a Feather""",New Zealand,Mahia LC-1A,Rocket Lab,NROL-151,NRO,Low Earth,Reconnaissance,In orbit,Operational,"
 First launch contracted via the NRO's Rapid Acquisition of a Small Rocket (RASR) program.
-            
 "
 6 February21:42:41,Soyuz-2.1b / Fregat,ST27,Kazakhstan,Baikonur Site 31/6,Arianespace / Starsem,OneWeb × 34,OneWeb,Low Earth,Communications,In orbit,Operational,"
 Second OneWeb mission. Baikonur flight 1.
-            
 "
 9 February01:34,H-IIA 202,F41,Japan,Tanegashima LA-Y1,MHI,IGS-Optical 7,CSICE,Low Earth (SSO),Reconnaissance,In orbit,Operational
 9 February15:45,Simorgh,,Iran,Semnan LP-2,ISA,Zafar 1,IUST,Low Earth,Earth observation,9 February,Launch failure,"
 Satellite failed to reach orbit.
-            
 "
-10 February04:03,Atlas V 411,AV-087,United States,Cape Canaveral SLC-41,ULA,"Solar
-                    Orbiter",ESA,Heliocentric,Heliophysics,In orbit,En route
-15 February20:21:04,Antares 230+,,United States,MARS LP-0A,Northrop Grumman,"Cygnus
-                    NG-13S.S. Robert H. Lawrence
+10 February04:03,Atlas V 411,AV-087,United States,Cape Canaveral SLC-41,ULA,Solar Orbiter,ESA,Heliocentric,Heliophysics,In orbit,En route
+15 February20:21:04,Antares 230+,,United States,MARS LP-0A,Northrop Grumman,"
+Red-Eye 2, Red-Eye 3, DeMi, and the ELaNa 30 satellite TES-10 were carried within the Cygnus spacecraft and will be released into orbit at a later date. Red-Eye 2 was deployed into orbit from ISS on 17 June 2020. Red-Eye 3 was deployed into orbit on 23 June 2020.
+"
+17 February15:05:55,Falcon 9 Block 5,Starlink V1.0-L4,United States,Cape Canaveral SLC-40,SpaceX,"Cygnus NG-13S.S. Robert H. Lawrence
 Red-Eye 2
-Red-Eye 3","NASA
+Red-Eye 3
+Starlink × 60","NASA
 DARPA
-DARPA","Low Earth (ISS)
+DARPA
+SpaceX","Low Earth (ISS)
+Low Earth
 Low Earth
 Low Earth","ISS logistics
 Technology demonstration
-Technology demonstration","29 May
+Technology demonstration
+Communications","29 May
+In orbit
 In orbit
 In orbit","Successful
 Operational
-Operational","
-Red-Eye 2, Red-Eye 3, DeMi, and the ELaNa 30 satellite TES-10 were carried within the
-                Cygnus spacecraft and will be released into orbit at a later date. Red-Eye 2 was deployed into orbit
-                from ISS on 17 June 2020. Red-Eye 3 was deployed into orbit on 23 June 2020.
-            
-"
-17 February15:05:55,Falcon 9 Block 5,Starlink V1.0-L4,United States,Cape Canaveral SLC-40,SpaceX,Starlink × 60,SpaceX,Low Earth,Communications,In orbit,Operational
+Operational
+Operational"
 18 February22:18,Ariane 5 ECA,VA252,France,Kourou ELA-3,Arianespace,"JCSAT-17
 GEO-KOMPSAT-2B","JSAT
 KARI","Geosynchronous
@@ -96,32 +91,27 @@ Operational
 Operational
 Operational","
 First Long March 2D launch from Xichang.
-            
 "
-20 February08:24:54,Soyuz-2.1a / Fregat-M,,Russia,Plesetsk Site 43/3,RVSN RF,Meridian-M 9 (19L),"Ministry of
-                    Defence",Molniya,Communications,In orbit,Operational
-7 March04:50:31,Falcon 9 Block 5,F9-082,United States,Cape Canaveral SLC-40,SpaceX,"SpaceX
-                    CRS-20",NASA,Low Earth (ISS),ISS logistics,7 April18:50,Successful,"
-Final flight of Dragon 1.
-                G-SATELLITE (Gundam Satellite) carries two miniature Gundam figurines to promote the Tokyo 2020 Summer Olympics.
-                Quetzal-1 is Guatemala's first satellite. G-SATELLITE
-                and Quetzal-1 were deployed into orbit from the ISS on 28 April 2020. Lynk the World, Lynk's
-                fourth satellite, was launched to the ISS on this flight and deployed into space by the Cygnus NG-13 spacecraft on 13 May.
-            
+20 February08:24:54,Soyuz-2.1a / Fregat-M,,Russia,Plesetsk Site 43/3,RVSN RF,Meridian-M 9 (19L),Ministry of Defence,Molniya,Communications,In orbit,Operational
+7 March04:50:31,Falcon 9 Block 5,F9-082,United States,Cape Canaveral SLC-40,SpaceX,"
+Final flight of Dragon 1. G-SATELLITE (Gundam Satellite) carries two miniature Gundam figurines to promote the Tokyo 2020 Summer Olympics. Quetzal-1 is Guatemala's first satellite. G-SATELLITE and Quetzal-1 were deployed into orbit from the ISS on 28 April 2020. Lynk the World, Lynk's fourth satellite, was launched to the ISS on this flight and deployed into space by the Cygnus NG-13 spacecraft on 13 May.
 "
-9 March11:55,Long March 3B/E,3B-Y69,China,Xichang LC-2,CASC,BeiDou-3 G2Q,CNSA,Geosynchronous,Navigation,In orbit,Operational
+9 March11:55,Long March 3B/E,3B-Y69,China,Xichang LC-2,CASC,"SpaceX CRS-20
+BeiDou-3 G2Q","NASA
+CNSA","Low Earth (ISS)
+Geosynchronous","ISS logistics
+Navigation","7 April18:50
+In orbit","Successful
+Operational"
 16 March13:34,Long March 7A,Y1,China,Wenchang LC-2,CASC,Xinjishu Yanzheng-6 (XJY-6),TBA,Geosynchronous,Technology demonstration,16 March,Launch failure,"
 First flight of Long March 7A. Failed to reach orbit.
-            
 "
 16 March18:28,Soyuz-2.1b / Fregat-M,,Russia,Plesetsk Site 43/4,RVSN RF,GLONASS-M 760,VKS,Medium Earth,Navigation,In orbit,Operational
 18 March12:16:39,Falcon 9 Block 5,Starlink V1.0-L5,United States,Kennedy LC-39A,SpaceX,Starlink × 60,SpaceX,Low Earth,Communications,In orbit,Operational,"
 Fifth flight of booster B1048; recovery was not successful.
-            
 "
 21 March17:06:58,Soyuz-2.1b / Fregat,ST28,Kazakhstan,Baikonur Site 31/6,Arianespace / Starsem,OneWeb × 34,OneWeb,Low Earth,Communications,In orbit,Operational,"
 Baikonur flight 2.
-            
 "
 24 March03:43,Long March 2C,2C-Y42,China,Xichang LC-3,CASC,"Yaogan 30-06 01
 Yaogan 30-06 02
@@ -136,22 +126,23 @@ In orbit
 In orbit","Operational
 Operational
 Operational"
-26 March20:18,Atlas V 551,AV-086,United States,Cape Canaveral SLC-41,ULA,AEHF-6,U.S. Space Force,Geosynchronous,Military communications,In orbit,En route,9 April08:05:06,Soyuz-2.1a,,Kazakhstan,Baikonur Site 31/6,Roscosmos,Soyuz MS-16,Roscosmos,Low Earth (ISS),Expedition 62/63,In orbit,Docked,"
+26 March20:18,Atlas V 551,AV-086,United States,Cape Canaveral SLC-41,ULA,9 April08:05:06,Soyuz-2.1a,,Kazakhstan,Baikonur Site 31/6,Roscosmos,"AEHF-6
+Soyuz MS-16","U.S. Space Force
+Roscosmos","Geosynchronous
+Low Earth (ISS)","Military communications
+Expedition 62/63","In orbit
+In orbit","En route
+Docked","
 First crewed flight of Soyuz-2.1a.
-            
 "
 9 April11:46,Long March 3B/E,3B-Y71,China,Xichang LC-2,CASC,Nusantara Dua (Palapa-N1),PSN / Indosat,Geosynchronous,Communications,9 April,Launch failure,"
-Intended to replace Palapa-D. Failed to reach
-                orbit.
-            
+Intended to replace Palapa-D. Failed to reach orbit.
 "
 22 April03:59,Qased,,Iran,Shahrud Missile Test Site,IRGC,"
 First launch of the Qased.
-            
 "
 22 April19:30:30,Falcon 9 Block 5,Starlink V1.0-L6,United States,Kennedy LC-39A,SpaceX,Starlink × 60,SpaceX,Low Earth,Communications,In orbit,Operational
-25 April01:51:41,Soyuz-2.1a,,Kazakhstan,Baikonur Site 31/6,Roscosmos,"Progress
-                    MS-14 / 75P",Roscosmos,Low Earth (ISS),ISS logistics,In orbit,Operational
+25 April01:51:41,Soyuz-2.1a,,Kazakhstan,Baikonur Site 31/6,Roscosmos,Progress MS-14 / 75P,Roscosmos,Low Earth (ISS),ISS logistics,In orbit,Operational
 5 May10:00,Long March 5B,Y1,China,Wenchang LC-1,CASC,"Chinese next-generation crewed spacecraft
 Flexible Inflatable Cargo Return Module","CNSA
 CASIC","Highly elliptical
@@ -159,12 +150,7 @@ Low Earth","Flight test
 Technology demonstration","8 May05:49
 6 May","Successful
 Spacecraft failure","
-First flight of Long
-                    March 5B, testing a new crewed spacecraft. The capsule
-                successfully returned to Earth on May 8, following on-orbit testing. An experimental secondary payload,
-                meant to test inflatable heat shield reentry technologies, malfunctioned during its
-                return to Earth on May 6.
-            
+First flight of Long March 5B, testing a new crewed spacecraft. The capsule successfully returned to Earth on May 8, following on-orbit testing. An experimental secondary payload, meant to test inflatable heat shield reentry technologies, malfunctioned during its return to Earth on May 6.
 "
 12 May01:16,Kuaizhou 1A,Y6,China,Jiuquan LA-4,ExPace,"Xingyun-2 01
 Xingyun-2 02","Xingyun Satellite Co.
@@ -173,24 +159,17 @@ Low Earth (SSO)","IoT
 IoT","In orbit
 In orbit","Operational
 Operational","
-Xingyun-2 01/02 are the first two small satellites launched for the Xingyun narrow-band
-                Internet of Things constellation to perform data relay and tracking services. The constellation will
-                eventually consist of 80 such satellites.
-            
+Xingyun-2 01/02 are the first two small satellites launched for the Xingyun narrow-band Internet of Things constellation to perform data relay and tracking services. The constellation will eventually consist of 80 such satellites.
 "
-17 May13:14:00,Atlas V 501,AV-081,United States,Cape Canaveral SLC-41,ULA,"USSF-7 (X-37B
-                    OTV-6)
+17 May13:14:00,Atlas V 501,AV-081,United States,Cape Canaveral SLC-41,ULA,"USSF-7 (X-37B OTV-6)
 FalconSAT-8","U.S. Space Force
-U.S. Air Force
-                    Academy","Low Earth
+U.S. Air Force Academy","Low Earth
 Low Earth","Technology demonstration
 Technology demonstration","In orbit
 In orbit","Operational
 Operational"
 20 May17:31:00,H-IIB,F9,Japan,Tanegashima LA-Y2,MHI,HTV-9,JAXA,Low Earth (ISS),ISS logistics,In orbit,Operational,"
-Final HTV cargo
-                launch, and final flight of the H-IIB rocket. The HTV-X and H3 rocket will replace them, respectively.
-            
+Final HTV cargo launch, and final flight of the H-IIB rocket. The HTV-X and H3 rocket will replace them, respectively.
 "
 22 May07:31:17,Soyuz-2.1b / Fregat,,Russia,Plesetsk Site 43/4,RVSN RF,EKS-4 (Tundra 14L),VKS,Molniya,Early warning,In orbit,Operational
 25 May19:50,LauncherOne,F1,United States,"Cosmic Girl, Mojave",Virgin Orbit,"Dummy payload
@@ -200,9 +179,7 @@ Low Earth","Flight test
 Education","25 May
 25 May","Launch failure
 Launch failure","
-First orbital flight of LauncherOne. Mission was terminated shortly after first stage
-                ignition.
-            
+First orbital flight of LauncherOne. Mission was terminated shortly after first stage ignition.
 "
 29 May20:13,Long March 11,,China,Xichang,CASC,"XJS-G
 XJS-H","CAS
@@ -212,32 +189,21 @@ Technology demonstration","In orbit
 In orbit","Operational
 Operational"
 30 May19:22:45,Falcon 9 Block 5,F9-085,United States,Kennedy LC-39A,SpaceX,SpX-DM2 Endeavour,SpaceX / NASA,Low Earth (ISS),Expedition 63 / Crewed flight test,In orbit,Operational,"
-Crew Dragon Demo 2: Crewed flight test of SpaceX Dragon 2 as part of the Commercial Crew
-                    Development program. Mission duration will be determined after arrival at the International
-                Space Station. First crewed orbital spaceflight with a private spacecraft.
-            
+Crew Dragon Demo 2: Crewed flight test of SpaceX Dragon 2 as part of the Commercial Crew Development program. Mission duration will be determined after arrival at the International Space Station. First crewed orbital spaceflight with a private spacecraft.
 "
 31 May08:53,Long March 2D,2D-Y51,China,Jiuquan SLS-2,CASC,"Gaofen-9 02
 HEAD-4","CNSA
 HEAD Aerospace","Low Earth (SSO)
 Low Earth (SSO)","Earth observation
-AIS ship
-                    tracking","In orbit
+AIS ship tracking","In orbit
 In orbit","Operational
 Operational"
 4 June01:25:33,Falcon 9 Block 5,Starlink V1.0-L7,United States,Cape Canaveral SLC-40,SpaceX,Starlink × 60,SpaceX,Low Earth,Communications,In orbit,Operational,"
-Fifth flight of booster B1049; recovery was successful (first booster to be
-                recovered after 5th flight).
-            
+Fifth flight of booster B1049; recovery was successful (first booster to be recovered after 5th flight).
 "
-10 June18:31:24,Long March 2C,2C-Yxx,China,Taiyuan LC-9,CASC,HaiYang 1D,"Ministry of Natural
-                    Resources",Low Earth (SSO),Earth observation,In orbit,Operational
+10 June18:31:24,Long March 2C,2C-Yxx,China,Taiyuan LC-9,CASC,HaiYang 1D,Ministry of Natural Resources,Low Earth (SSO),Earth observation,In orbit,Operational
 13 June05:12:12,Electron,"""Don't Stop Me Now""",New Zealand,Mahia LC-1A,Rocket Lab,"
-Launch of the ELaNa 32 mission, plus additional payloads.
-                ANDESITE will conduct magnetospheric research using an experimental fractionated formation of
-                eight picosatellites, to be
-                deployed after reaching orbit. Three NRO payloads were deployed as part of RASR-2.
-            
+Launch of the ELaNa 32 mission, plus additional payloads. ANDESITE will conduct magnetospheric research using an experimental fractionated formation of eight picosatellites, to be deployed after reaching orbit. Three NRO payloads were deployed as part of RASR-2.
 "
 13 June09:21:18,Falcon 9 Block 5,Starlink V1.0-L8,United States,Cape Canaveral SLC-40,SpaceX,"Starlink × 58
 SkySat 16–18","SpaceX
@@ -247,7 +213,6 @@ Earth observation","In orbit
 In orbit","Operational
 Operational","
 First SmallSat Rideshare mission launch.
-            
 "
 17 June07:19,Long March 2D,2D-Y52,China,Jiuquan SLS-2,CASC,"Gaofen-9 03
 HEAD-5
@@ -256,17 +221,14 @@ HEAD Aerospace
 Zhejiang University","Low Earth (SSO)
 Low Earth (SSO)
 Low Earth (SSO)","Earth observation
-AIS ship
-                    tracking
+AIS ship tracking
 Technology demonstration","In orbit
 In orbit
 In orbit","Operational
 Operational
 Operational"
 23 June01:43,Long March 3B/E,3B-Y68,China,Xichang LC-2,CASC,BeiDou-3 G3Q,CNSA,Geosynchronous,Navigation,In orbit,Operational,"
-Last
-                    satellite of the BeiDou-3 constellation to be launched, completing the BeiDou Navigation Satellite System.
-            
+Last satellite of the BeiDou-3 constellation to be launched, completing the BeiDou Navigation Satellite System.
 "
 30 June20:10:46,Falcon 9 Block 5,F9-089,United States,Cape Canaveral SLC-40,SpaceX,GPS IIIA-03,U.S. Space Force,Medium Earth,Navigation,In orbit,Operational
 3 July03:10,Long March 4B,4B-Y43,China,Taiyuan LC-9,CASC,"Gaofen Duomo (Multi-Mode)
@@ -276,16 +238,19 @@ Low Earth (SSO)","Earth observation
 Popular science","In orbit
 In orbit","Operational
 Operational"
-4 July21:19:36,Electron,"""Pics Or It Didn't Happen""",New Zealand,Mahia LC-1A,Rocket Lab,CE-SAT-IB,Canon Inc.,Low Earth (SSO),Earth observation,4 July,Launch failure,"
+4 July21:19:36,Electron,"""Pics Or It Didn't Happen""",New Zealand,Mahia LC-1A,Rocket Lab,"
 Failed during second stage flight.
-            
 "
-4 July23:44,Long March 2D,2D-Y29,China,Jiuquan SLS-2,CASC,Shiyan-6 02,CAST,Low Earth (SSO),Technology demonstration,In orbit,Operational
-6 July01:00,Shavit-2,,Israel,Palmachim Airbase,IAI,Ofeq 16,"Israel Ministry of
-                    Defence",Low Earth,Reconnaissance,In orbit,Operational
+4 July23:44,Long March 2D,2D-Y29,China,Jiuquan SLS-2,CASC,"CE-SAT-IB
+Shiyan-6 02","Canon Inc.
+CAST","Low Earth (SSO)
+Low Earth (SSO)","Earth observation
+Technology demonstration","4 July
+In orbit","Launch failure
+Operational"
+6 July01:00,Shavit-2,,Israel,Palmachim Airbase,IAI,Ofeq 16,Israel Ministry of Defence,Low Earth,Reconnaissance,In orbit,Operational
 9 July12:11:04,Long March 3B/E,3B-Y64,China,Xichang LC-3,CASC,APStar 6D,APT Satellite Co.,Geosynchronous,Communications,In orbit,Operational
-10 July04:17,Kuaizhou 11,,China,Jiuquan LA-4,ExPace,"Bilibili Video
-                Satellite (Jilin-1 Gaofen-02E)
+10 July04:17,Kuaizhou 11,,China,Jiuquan LA-4,ExPace,"Bilibili Video Satellite (Jilin-1 Gaofen-02E)
 CentiSpace-1 S2 (Xiangrikui 2)","Chang Guang Satellite Technology
 Beijing Future Navigation Technology","Low Earth (SSO)
 Low Earth (SSO)","Earth observation
@@ -293,58 +258,38 @@ Technology demonstration","10 July
 10 July","Launch failure
 Launch failure","
 First flight of Kuaizhou 11.
-            
 "
-↓ Upcoming launches ↓,11 July14:54,Falcon 9 Block 5,Starlink V1.0-L9,United States,Kennedy LC-39A,SpaceX,"Starlink × 57
-BlackSky Global 7
-BlackSky Global 8","SpaceX
-BlackSky Global
-BlackSky Global","Low Earth
-Low Earth
-Low Earth","Communications
-Earth observation
-Earth observation",,,"
-Starlink SmallSat Rideshare mission to deploy BlackSky Global 7 and 8; first Starlink
-                rideshare contracted with Spaceflight Industries, dubbed ""SXRS-1"".
-            
-"
-14 July20:51:27,H-IIA 202,F42,Japan,Tanegashima LA-Y1,MHI,Hope (Al-Amal),"Mohammed bin
-                    Rashid Space Centre",Areocentric,Mars orbiter,,,"
-Emirates Mars Mission; first Emirati space
-                    probe.
-            
+↓ Upcoming launches ↓,14 July20:51:27,H-IIA 202,F42,Japan,Tanegashima LA-Y1,MHI,Hope (Al-Amal),Mohammed bin Rashid Space Centre,Areocentric,Mars orbiter,,,"
+Emirates Mars Mission; first Emirati space probe.
 "
 14 July21:00,Falcon 9 Block 5,,United States,Cape Canaveral SLC-40,SpaceX,ANASIS-II,Republic of Korea Army,Geosynchronous,Military communications,,,"
 South Korea's first dedicated military communications satellite.
-            
 "
 15 July13:00,Minotaur IV / Orion 38,,United States,MARS LP-0B,Northrop Grumman,NROL-129,NRO,Low Earth,Reconnaissance,,
 23 July14:26,Soyuz-2.1a,,Kazakhstan,Baikonur Site 31/6,Roscosmos,Progress MS-15 / 76P,Roscosmos,Low Earth (ISS),ISS logistics,,,"
 At the end of its mission, Progress MS-15 will deorbit the Pirs module to make way for the arrival of Nauka in early 2021.
-            
 "
 23 July,Long March 5,Y4,China,Wenchang LC-1,CASC,Tianwen-1,CNSA,Areocentric,Mars orbiter and rover,,,"
 China's first independent Mars mission.
-            
 "
-25 July23:19,Falcon 9 Block 5,,United States,Cape Canaveral SLC-40,SpaceX,"SAOCOM 1B
-Sequoia (Capella 2)","CONAE
-Capella Space","Low Earth (SSO)
-Low Earth (SSO)","Earth observation
-Earth observation",,,"
-The first attempt to launch a polar
-                    orbit mission from Cape Canaveral Air Force Station since the failure of a
-                Transit 3A satellite launch in 1960.
-                SmallSat Rideshare mission to deploy Sequoia and GNOMES-1.
-            
+25 July23:19,Falcon 9 Block 5,,United States,Cape Canaveral SLC-40,SpaceX,"
+The first attempt to launch a polar orbit mission from Cape Canaveral Air Force Station since the failure of a Transit 3A satellite launch in 1960. SmallSat Rideshare mission to deploy Sequoia and GNOMES-1.
 "
-28 July21:29,Ariane 5 ECA,VA253,France,Kourou ELA-3,Arianespace,"BSAT-4b
+28 July21:29,Ariane 5 ECA,VA253,France,Kourou ELA-3,Arianespace,"SAOCOM 1B
+Sequoia (Capella 2)
+BSAT-4b
 Galaxy 30
-MEV-2","BSAT
+MEV-2","CONAE
+Capella Space
+BSAT
 Intelsat
-Northrop Grumman","Geosynchronous
+Northrop Grumman","Low Earth (SSO)
+Low Earth (SSO)
 Geosynchronous
-Geosynchronous","Communications
+Geosynchronous
+Geosynchronous","Earth observation
+Earth observation
+Communications
 Communications
 Satellite servicing",,
 29 July21:27,Proton-M / Briz-M P4,,Kazakhstan,Baikonur Site 200/39,Roscosmos,"Ekspress 80
@@ -354,20 +299,24 @@ Geosynchronous","Communications
 Communications",,
 30 July11:50,Atlas V 541,AV-088,United States,Cape Canaveral SLC-41,ULA,"Perseverance
 Ingenuity","NASA / JPL
-NASA / JPL","TMI to Martian
-                surface
-TMI to Martian
-                surface","Mars rover
+NASA / JPL","TMI to Martian surface
+TMI to Martian surface","Mars rover
 Mars aircraft",,,"
 Mars 2020 mission.
-            
 "
 30 July,Rocket 3,Rocket 3.1,United States,Kodiak,Astra,"
-First flight of Astra's Rocket 3 smallsat launch vehicle. Originally intended to be the second of two launches
-                for the DARPA
-                    Launch Challenge, Rocket 3.1 (formerly ""2 or 3"") will be the first to launch a commercial
-                payload after the loss of ""1 of 3"" during a prelaunch test.
-            
+First flight of Astra's Rocket 3 smallsat launch vehicle. Originally intended to be the second of two launches for the DARPA Launch Challenge, Rocket 3.1 (formerly ""2 or 3"") will be the first to launch a commercial payload after the loss of ""1 of 3"" during a prelaunch test.
+"
+July (TBD),Falcon 9 Block 5,Starlink V1.0-L9,United States,Kennedy LC-39A,SpaceX,"Starlink × 57
+BlackSky Global 7
+BlackSky Global 8","SpaceX
+BlackSky Global
+BlackSky Global","Low Earth
+Low Earth
+Low Earth","Communications
+Earth observation
+Earth observation",,,"
+Starlink SmallSat Rideshare mission to deploy BlackSky Global 7 and 8; first Starlink rideshare contracted with Spaceflight Industries, dubbed ""SXRS-1"".
 "
 July (TBD),Falcon 9 Block 5,Starlink V1.0-L10,United States,Cape Canaveral SLC-40,SpaceX,"Starlink × 58
 SkySat 19–21","SpaceX
@@ -375,90 +324,74 @@ Planet Labs","Low Earth
 Low Earth","Communications
 Earth observation",,,"
 Starlink SmallSat Rideshare mission to deploy SkySat 19–21.
-            
 "
 July (TBD),Long March 3B/E,,China,Xichang,CASC,Tiantong-1 02,China Satcom,Geosynchronous,Communications,,
-July (TBD),Long March 4B,,China,Taiyuan LC-9,CASC,Ziyuan III-03,"Ministry of Natural
-                    Resources",Low Earth,Earth observation,,
+July (TBD),Long March 4B,,China,Taiyuan LC-9,CASC,Ziyuan III-03,Ministry of Natural Resources,Low Earth,Earth observation,,
 July (TBD),Long March 6,,China,Taiyuan LC-16,CASC,ÑuSat × 13,Satellogic,Low Earth (SSO),Earth observation,,,"
 ÑuSat 9–21.
-            
 "
 July (TBD),PSLV-QL,C49,India,Satish Dhawan FLP,ISRO,"RISAT-2BR2
 KSM × 4","ISRO
 Kleos Space","Low Earth
 Low Earth","Earth observation
 Navigation",,
-1 August04:27:00,Falcon 9 Block 5,,United States,Kennedy LC-39A,SpaceX,SXM 7,"Sirius
-                    XM",Geosynchronous,Communications,,
+1 August04:27:00,Falcon 9 Block 5,,United States,Kennedy LC-39A,SpaceX,SXM 7,Sirius XM,Geosynchronous,Communications,,
 6 August,Soyuz-2.1b / Fregat,,Russia,Plesetsk Site 43/3,RVSN RF,GLONASS-K 15 (K1 №3),VKS,Medium Earth,Navigation,,
-18 August01:51:10,Vega,VV16,France,Kourou ELV,Arianespace,"Athena
+18 August01:51:10,Vega,VV16,France,Kourou ELV,Arianespace,"
+Small Satellites Mission Service Proof of Concept (SSMS PoC) mission. Return to flight for Vega after the July 2019 launch failure. 53 satellites will be deployed by the SSMS dispenser, including 14 Flock CubeSats carried on SSMS QuadPack deployers, while 12 additional Flock CubeSats will be deployed separately by the ION SCV LUCAS satellite. NEMO-HD and TRISAT are Slovenia's first satellites, and OSM-1 Cicero is Monaco's first satellite.
+"
+26 August,Delta IV Heavy,D-385,United States,Cape Canaveral SLC-37B,ULA,"Athena
 ESAIL
 GHGSat-C1 (Iris)
 NEMO-HD
-ÑuSat 6
-                (Hypatia)
+ÑuSat 6 (Hypatia)
 UPMSat-2
-ION
-                    CubeSat Carrier 1 (ION SCV LUCAS)","Facebook
+ION CubeSat Carrier 1 (ION SCV LUCAS)
+Orion 10 / NROL-44","Facebook
 exactEarth
 GHGSat
 UTIAS / Space-SI
 Satellogic
 UPM
-D-Orbit","Low Earth (SSO)
+D-Orbit
+NRO","Low Earth (SSO)
 Low Earth (SSO)
 Low Earth (SSO)
 Low Earth (SSO)
 Low Earth (SSO)
 Low Earth (SSO)
-Low Earth (SSO)","Communications
-AIS ship
-                    tracking
+Low Earth (SSO)
+Geosynchronous","Communications
+AIS ship tracking
 Earth observation
 Earth observation
 Earth observation
-Technology
-                    demonstrationEducation
-CubeSat deployer",,,"
-Small Satellites Mission Service Proof of Concept (SSMS PoC) mission. Return to flight for
-                Vega after the July 2019 launch failure.
-                53 satellites will be deployed by the SSMS dispenser, including 14 Flock CubeSats carried on SSMS
-                QuadPack deployers, while 12 additional Flock CubeSats will be deployed separately by the ION SCV LUCAS
-                satellite. NEMO-HD and TRISAT are Slovenia's first
-                satellites, and OSM-1 Cicero is Monaco's first satellite.
-            
-"
-26 August,Delta IV Heavy,D-385,United States,Cape Canaveral SLC-37B,ULA,"Orion
-                    10 / NROL-44",NRO,Geosynchronous,Reconnaissance,,
+Technology demonstrationEducation
+CubeSat deployer
+Reconnaissance",,
 August (TBD),Falcon 9 Block 5,,United States,Cape Canaveral SLC-40,SpaceX,Starlink × 60,SpaceX,Low Earth,Communications,,,"
 Scheduled Starlink SmallSat Rideshare mission.
-            
 "
 August (TBD),Jielong 1,Y2,China,Jiuquan LA-4,China Rocket,"TBA
 TBA","TBA
 TBA","Low Earth
 Low Earth","Earth observation
 Earth observation",,
-7 September,Antares 230+,,United States,MARS LP-0A,Northrop Grumman,Cygnus NG-14,NASA,Low Earth (ISS),ISS logistics,,,"
-The ELaNa 31 mission will launch on this resupply
-                flight.
-            
+7 September,Antares 230+,,United States,MARS LP-0A,Northrop Grumman,"
+The ELaNa 31 mission will launch on this resupply flight.
 "
-15 September,Long March TBA,,China,Jiuquan SLS-2,CASC,Mid September (TBD),Falcon 9 Block 5,,United States,Kennedy LC-39A,SpaceX,"SpaceX
-                    Crew-1",SpaceX / NASA,Low Earth (ISS),Expedition 64/65,,,"
-First operational Crew
-                    Dragon mission, as part of the Commercial Crew Program.
-            
+15 September,Long March TBA,,China,Jiuquan SLS-2,CASC,Mid September (TBD),Falcon 9 Block 5,,United States,Kennedy LC-39A,SpaceX,"Cygnus NG-14
+SpaceX Crew-1","NASA
+SpaceX / NASA","Low Earth (ISS)
+Low Earth (ISS)","ISS logistics
+Expedition 64/65",,,"
+First operational Crew Dragon mission, as part of the Commercial Crew Program.
 "
 20 September,Soyuz-2.1b / Fregat,,Russia,Plesetsk Site 43/4,Roscosmos,"Gonets-M 17
 Gonets-M 18
-Gonets-M 19","Gonets
-                    Satellite System
-Gonets
-                    Satellite System
-Gonets
-                    Satellite System","Low Earth
+Gonets-M 19","Gonets Satellite System
+Gonets Satellite System
+Gonets Satellite System","Low Earth
 Low Earth
 Low Earth","Communications
 Communications
@@ -467,11 +400,9 @@ Communications",,
 September (TBD),Atlas V 531,AV-090,United States,Cape Canaveral SLC-41,ULA,NROL-101,NRO,TBA,Reconnaissance,,
 September (TBD),Falcon 9 Block 5,,United States,Cape Canaveral SLC-40,SpaceX,Starlink × 60,SpaceX,Low Earth,Communications,,,"
 Scheduled Starlink SmallSat Rideshare mission.
-            
 "
 September (TBD),LauncherOne,F2,United States,"Cosmic Girl, Mojave",Virgin Orbit,"
 Launch of NASA's ELaNa 20 mission. Second flight of LauncherOne.
-            
 "
 September (TBD),Long March 6,,China,Taiyuan LC-16,CASC,TBA,TBA,Low Earth (SSO),Earth observation,,
 September (TBD),PSLV,,India,Satish Dhawan,ISRO,"Amazônia-1
@@ -480,7 +411,6 @@ Capella Space","Low Earth (SSO)
 Low Earth (SSO)","Earth observation
 Earth observation",,,"
 First Brazilian earth observation satellite.
-            
 "
 Q3 (TBD),Ceres-1,,China,Jiuquan,Galactic Energy,"TBA
 TBA
@@ -492,15 +422,12 @@ Low Earth","TBA
 TBA
 TBA",,,"
 First flight of Ceres-1, carrying a main satellite and two passengers.
-            
 "
 Q3 (TBD),Electron,,United States,MARS LC-2,Rocket Lab,Monolith,U.S. Space Force,Low Earth,Space weather,,,"
 First launch from Rocket Lab Launch Complex 2 at the Mid-Atlantic Regional Spaceport in Wallops, flying the Space Force's STP-27RM mission.
-            
 "
 Q3 (TBD),Electron,,New Zealand,Mahia LC-1,Rocket Lab,Whitney 1,Capella Space,Low Earth,Earth observation,,
-Q3 (TBD),Falcon 9 Block 5,,United States,Cape Canaveral SLC-40,SpaceX,SXM 8,"Sirius
-                    XM",Geosynchronous,Communications,,
+Q3 (TBD),Falcon 9 Block 5,,United States,Cape Canaveral SLC-40,SpaceX,SXM 8,Sirius XM,Geosynchronous,Communications,,
 Q3 (TBD),PSLV-XL,C50,India,Satish Dhawan FLP,ISRO,RISAT-1A,ISRO,Low Earth (SSO),Earth observation,,
 Q3 (TBD),PSLV-XL,,India,Satish Dhawan,ISRO,"Cartosat-3B
 IMS-2 × 2
@@ -513,11 +440,9 @@ Earth observation
 Earth observation",,
 Q3 (TBD),RS1,,TBA,United States,ABL Space Systems,TBA,TBA,Low Earth,Flight test,,,"
 First flight.
-            
 "
 Q3 (TBD),SSLV,D1,India,Satish Dhawan FLP,ISRO,Microsat-2A,ISRO,Low Earth,Earth observation,,,"
 First flight of India's Small Satellite Launch Vehicle (SSLV).
-            
 "
 Q3 (TBD),Vega,VV17,France,Kourou ELV,Arianespace,"SEOSat-Ingenio
 TARANIS","Hisdesat
@@ -525,105 +450,113 @@ CNES","Low Earth (SSO)
 Low Earth (SSO)","Earth observation
 Earth observation",,
 14 October,Soyuz-2.1a,,Kazakhstan,Baikonur Site 31/6,Roscosmos,Soyuz MS-17,Roscosmos,Low Earth (ISS),Expedition 63/64,,
-Mid October (TBD),Firefly Alpha,F1,United States,Vandenberg SLC-2W,Firefly,DREAM,Firefly,Low Earth (SSO),CubeSat deployer,,,"
-First flight of the Firefly Alpha
-                commercial smallsat launcher. 26
-                cubesat rideshare payloads will be launched through Firefly's Dedicated Research and Education
-                Accelerator Mission (DREAM) program. Firefly's experimental orbit transfer vehicle (OTV) will also be tested on this flight.
-            
+Mid October (TBD),Firefly Alpha,F1,United States,Vandenberg SLC-2W,Firefly,"
+First flight of the Firefly Alpha commercial smallsat launcher. 26 cubesat rideshare payloads will be launched through Firefly's Dedicated Research and Education Accelerator Mission (DREAM) program. Firefly's experimental orbit transfer vehicle (OTV) will also be tested on this flight.
 "
-17 October,Soyuz ST-A / Fregat-M,VS24,France,Kourou ELS,Arianespace,Falcon Eye 2,UAE Armed Forces,Low Earth (SSO),Reconnaissance (IMINT),,
-30 October,Falcon 9 Block 5,,United States,Cape Canaveral SLC-40,SpaceX,"SpaceX
-                    CRS-21
+17 October,Soyuz ST-A / Fregat-M,VS24,France,Kourou ELS,Arianespace,"DREAM
+Falcon Eye 2","Firefly
+UAE Armed Forces","Low Earth (SSO)
+Low Earth (SSO)","CubeSat deployer
+Reconnaissance (IMINT)",,
+30 October,Falcon 9 Block 5,,United States,Cape Canaveral SLC-40,SpaceX,"SpaceX CRS-21
 Bishop Airlock Module","NASA
 NanoRacks / NASA","Low Earth (ISS)
 Low Earth (ISS)","ISS logistics
-Satellite
-                    deployment / ISS assembly",,,"
+Satellite deployment / ISS assembly",,,"
 NanoRacks' Bishop Airlock Module will launch on this resupply flight.
-            
 "
-October (TBD),Rocket 3,Rocket 3.2,United States,Kodiak,Astra,October (TBD),Falcon 9 Block 5,,United States,Cape Canaveral SLC-40,SpaceX,Starlink × 60,SpaceX,Low Earth,Communications,,,"
+October (TBD),Rocket 3,Rocket 3.2,United States,Kodiak,Astra,October (TBD),Falcon 9 Block 5,,United States,Cape Canaveral SLC-40,SpaceX,"
 Starlink SmallSat Rideshare mission to launch Kepler nanosatellites.
-            
 "
-October (TBD),Jielong 1,,China,Wenchang,China Rocket,Hainan-1 × 4,Sanya Institute of Remote Sensing,Low Earth,Earth observation,,
+October (TBD),Jielong 1,,China,Wenchang,China Rocket,"Starlink × 60
+Hainan-1 × 4","SpaceX
+Sanya Institute of Remote Sensing","Low Earth
+Low Earth","Communications
+Earth observation",,
 October (TBD),Long March 5 / YZ-2,Y5,China,Wenchang LC-1,CASC,Chang'e 5,CNSA,Selenocentric,Lunar lander,,,"
 China's first lunar sample return mission.
-            
 "
 October (TBD),Long March 6,,China,Taiyuan LC-16,CASC,TBA,TBA,Low Earth (SSO),Earth observation,,
 3 November,Angara A5 / Briz-M,,Russia,Plesetsk Site 35/1,RVSN RF,IPM 2 (dummy payload),VKS,Geosynchronous,Flight test,,
 6 November,Soyuz ST-A / Fregat-M,VS25,France,Kourou ELS,Arianespace,CSO 2,French Armed Forces,Low Earth (SSO),Reconnaissance,,
 10 November,Falcon 9 Block 5,,United States,Vandenberg SLC-4E,SpaceX,Sentinel-6 Michael Freilich,NASA / NOAA / ESA / Eumetsat,Low Earth,Earth observation,,
 13 November,Atlas V N22,AV-082,United States,Cape Canaveral SLC-41,ULA,Starliner Boe-OFT 2,Boeing / NASA,Low Earth (ISS),Flight test / ISS logistics,,,"
-Boeing Orbital Flight Test 2 of Starliner, as part of the Commercial Crew
-                    Development program.
-            
+Boeing Orbital Flight Test 2 of Starliner, as part of the Commercial Crew Development program.
 "
 25 November,Soyuz-2.1b / Fregat,,Russia,Plesetsk Site 43/4,RVSN RF,GLONASS-M 761,VKS,Medium Earth,Navigation,,
 November (TBD),Falcon 9 Block 5,,United States,Vandenberg SLC-4E,SpaceX,SARah 1,Bundeswehr,Low Earth (SSO),Reconnaissance,,
 November (TBD),Falcon 9 Block 5,,United States,Cape Canaveral SLC-40,SpaceX,Starlink × 60,SpaceX,Low Earth,Communications,,,"
 Scheduled Starlink SmallSat Rideshare mission.
-            
 "
-November (TBD),Soyuz-2.1a / Fregat,,Kazakhstan,Baikonur,Glavkosmos,"CAS500-1
+November (TBD),Soyuz-2.1a / Fregat,,Kazakhstan,Baikonur,Glavkosmos,1 December,Falcon 9 Block 5,,United States,Cape Canaveral SLC-40,SpaceX,"
+ELaNa 35 will launch along with the third Starlink rideshare mission contracted with Spaceflight Industries, SXRS-3.
+"
+9 December,Soyuz-2.1b / Fregat-M,,Kazakhstan,Baikonur,Roscosmos,"CAS500-1
 ELSA-d
 Fukui Prefectural Satellite
 GRUS-1 × 3
-Challenge One","KARI
+Challenge One
+UniSat-7
+Vigoride 1 (VR-1) Strait of Magellan
+Starlink × 60
+Arktika-M №1","KARI
 Astroscale
 Axelspace / FSTRA
 Axelspace
-Telnet Tunisie","Low Earth (SSO)
+Telnet Tunisie
+GAUSS Srl
+Momentus Space
+SpaceX
+Roscosmos","Low Earth (SSO)
 Low Earth (SSO)
 Low Earth (SSO)
 Low Earth (SSO)
-Low Earth (SSO)","Earth observation
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth
+Molniya","Earth observation
 Technology demonstration
 Earth observation
 Earth observation
-Communications",,,"UniSat-7
-Vigoride 1 (VR-1) Strait of Magellan","GAUSS Srl
-Momentus Space","Low Earth (SSO)
-Low Earth (SSO)","Satellite dispenser
-Space tug",,,1 December,Falcon 9 Block 5,,United States,Cape Canaveral SLC-40,SpaceX,Starlink × 60,SpaceX,Low Earth,Communications,,,"
-ELaNa 35 will launch along with the third Starlink
-                rideshare mission contracted with Spaceflight Industries, SXRS-3.
-            
-"
-9 December,Soyuz-2.1b / Fregat-M,,Kazakhstan,Baikonur,Roscosmos,Arktika-M №1,Roscosmos,Molniya,Earth observation,,
+Communications
+Satellite dispenser
+Space tug
+Communications
+Earth observation",,
 11 December,Soyuz-2.1a,,Kazakhstan,Baikonur Site 31/6,Roscosmos,Progress MS-16 / 77P,Roscosmos,Low Earth (ISS),ISS logistics,,
 15 December,Soyuz ST-B / Fregat-MT,VS26,France,Kourou ELS,Arianespace,"Galileo FOC 23, 24",ESA,Medium Earth,Navigation,,,"
-Eighth Galileo launch with Soyuz ST-B, carrying Patrick and a yet-to-be-named
-                satellite.
-            
+Eighth Galileo launch with Soyuz ST-B, carrying Patrick and a yet-to-be-named satellite.
 "
 16 December,Falcon 9 Block 5,,United States,Vandenberg SLC-4E,SpaceX,"Vigoride 2 (VR-2) Amber Road
-Alba Cluster 3","Momentus Space
-Alba Orbital","Low Earth (SSO)
-Low Earth (SSO)","Space tug
-PocketQube dispenser",,,"Umbra SAR
+Alba Cluster 3
+Umbra SAR
 XR-1
-Exoport","Umbra Lab
+Exoport
+YAM-3
+ION CubeSat Carrier 2","Momentus Space
+Alba Orbital
+Umbra Lab
 R2 Space
-Exolaunch","Low Earth (SSO)
-Low Earth (SSO)
-Low Earth (SSO)","Earth observation
-Earth observation
-Satellite dispenser",,,"YAM-3
-ION
-                    CubeSat Carrier 2","Loft Orbital
+Exolaunch
+Loft Orbital
 D-Orbit","Low Earth (SSO)
-Low Earth (SSO)","Technology demonstration
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)","Space tug
+PocketQube dispenser
+Earth observation
+Earth observation
+Satellite dispenser
+Technology demonstration
 CubeSat deployer",,,"
 Dedicated SmallSat Rideshare mission to sun-synchronous orbit. Up to 10 PocketQubes will be deployed as part of Alba Cluster 3.
-            
 "
-December (TBD),Vega-C,VC01,France,Kourou ELV,Arianespace,"LARES
-                    2",ASI,Low Earth,Laser rangingGeodesy,,,"
+December (TBD),Vega-C,VC01,France,Kourou ELV,Arianespace,LARES 2,ASI,Low Earth,Laser rangingGeodesy,,,"
 First flight of Vega-C.
-            
 "
 Q4 (TBD),Ariane 5 ECA,VA254,France,Kourou ELA-3,Arianespace,"Eutelsat Quantum
 Star One D2","Eutelsat
@@ -633,70 +566,54 @@ Communications",,
 Q4 (TBD),Atlas V 511,AV-085,United States,Cape Canaveral SLC-41,ULA,"USSF-8 / GSSAP 5
 USSF-8 / GSSAP 6","U.S. Space Force
 U.S. Space Force","Geosynchronous
-Geosynchronous","Space
-                    surveillance
-Space
-                    surveillance",,
+Geosynchronous","Space surveillance
+Space surveillance",,
 Q4 (TBD),Blue Whale 1,,Australia,Whalers Way,Perigee Aerospace,Dummy payload,Perigee Aerospace,Low Earth,Flight test,,,"
 First flight of Blue Whale 1.
-            
 "
 Q4 (TBD),Delta IV Heavy,,United States,Vandenberg SLC-6,ULA,NROL-82,NRO,Low Earth,Reconnaissance,,
 Q4 (TBD),Electron,,New Zealand,Mahia LC-1,Rocket Lab,StriX-α,Synspective,Low Earth (SSO),Earth observation,,
 Q4 (TBD),Falcon 9 Block 5,,United States,Cape Canaveral SLC-40,SpaceX,Türksat 5A,Türksat,Geosynchronous,Communications,,
-Q4 (TBD),Falcon Heavy,,United States,Kennedy LC-39A,SpaceX,USSF-44,U.S. Space Force,Geosynchronous,Military communications,,,Q4 (TBD),GSLV Mk III,,India,Satish Dhawan SLP,ISRO,DRSS-1,ISRO,Geosynchronous,Communications,,,"
+Q4 (TBD),Falcon Heavy,,United States,Kennedy LC-39A,SpaceX,Q4 (TBD),GSLV Mk III,,India,Satish Dhawan SLP,ISRO,"USSF-44
+DRSS-1","U.S. Space Force
+ISRO","Geosynchronous
+Geosynchronous","Military communications
+Communications",,,"
 First of two Indian Data Relay Satellites.
-            
 "
 Q4 (TBD),GSLV,,India,Satish Dhawan,ISRO,GSAT-7R,ISRO,Geosynchronous,Communications,,,"
 Will eventually replace GSAT-7.
-            
 "
 Q4 (TBD),H3-22S,,Japan,Tanegashima LA-Y2,MHI,ALOS-3,JAXA,Low Earth (SSO),Earth observation,,,"
 First flight of the H3 Launch Vehicle.
-            
 "
 Q4 (TBD),LauncherOne,F3,United States,"Cosmic Girl, Andersen",VOX Space,"
 Launch of NASA's ELaNa 29 mission.
-            
 "
 Q4 (TBD),LauncherOne,,United States,"Cosmic Girl, Mojave",Virgin Orbit,Q4 (TBD),PSLV,,India,Satish Dhawan,ISRO,SPADEX,ISRO,Low Earth,Technology demonstration,,
 Q4 (TBD),Soyuz-2.1b / Fregat,,Russia,Plesetsk Site 43/4,RVSN RF,GLONASS-K 16 (K1 №5),VKS,Medium Earth,Navigation,,,"
-After the initial two prototypes launched in 2011 and 2014, only nine more GLONASS-K1 models
-                will be produced. They will be launched as needed to replace end-of-life GLONASS-M variants.
-            
+After the initial two prototypes launched in 2011 and 2014, only nine more GLONASS-K1 models will be produced. They will be launched as needed to replace end-of-life GLONASS-M variants.
 "
 Q4 (TBD),Soyuz-2.1b / Fregat,,Russia,Plesetsk Site 43/4,Roscosmos,"Gonets-M 20
 Gonets-M 21
-Gonets-M 22","Gonets
-                    Satellite System
-Gonets
-                    Satellite System
-Gonets
-                    Satellite System","Low Earth
+Gonets-M 22","Gonets Satellite System
+Gonets Satellite System
+Gonets Satellite System","Low Earth
 Low Earth
 Low Earth","Communications
 Communications
 Communications",,
 Q4 (TBD),Vega,VV18,France,Kourou ELV,Arianespace,TBA,TBA,Low Earth (SSO),TBA,,
-Q4 (TBD),TBA,,China,TBA,TBA,GECAM,CAS,Low Earth,"Gravitational-wave
-                    astronomy",,
+Q4 (TBD),TBA,,China,TBA,TBA,GECAM,CAS,Low Earth,Gravitational-wave astronomy,,
 H2 2020 (TBD),Ariane 5 ECA,,France,Kourou ELA-3,Arianespace,Intelsat (TBD),Intelsat,Geosynchronous,Communications,,
-2020 (TBD),Atlas V 551,,United States,Cape Canaveral SLC-41,ULA,STP-3 (STPSat-6),"USAF Advanced Systems and Development
-                    Directorate",Geosynchronous,Technology demonstration,,,"
-The first GEM
-                    63 solid rocket motors will fly on this mission.
-            
+2020 (TBD),Atlas V 551,,United States,Cape Canaveral SLC-41,ULA,STP-3 (STPSat-6),USAF Advanced Systems and Development Directorate,Geosynchronous,Technology demonstration,,,"
+The first GEM 63 solid rocket motors will fly on this mission.
 "
 2020 (TBD),Electron,,New Zealand,Mahia LC-1,Rocket Lab,"
-The Dragracer mission will test Tethers Unlimited's Terminator Tape, an electrodynamic tether that can
-                passively de-orbit satellites in order to reduce space
-                    debris.
-            
+The Dragracer mission will test Tethers Unlimited's Terminator Tape, an electrodynamic tether that can passively de-orbit satellites in order to reduce space debris.
 "
 2020 (TBD),Electron,,New Zealand,Mahia LC-1,Rocket Lab,Photon,Rocket Lab,TBA,Satellite bus,,,"
 First launch of the Photon satellite bus.
-            
 "
 2020 (TBD),Firefly Alpha,F2,United States,Vandenberg SLC-2W,Firefly,"Carbonite 4
 TBA","SSTL
@@ -711,82 +628,65 @@ TBA",,
 2020 (TBD),GSLV,,India,Satish Dhawan,ISRO,GSAT-32,ISRO,Geosynchronous,Communications,,
 H2 2020 (TBD),Hapith V,,Taiwan,Taitung Launch Site,TiSPACE,TBA,TBA,Low Earth,Flight test,,,"
 First flight of Hapith V.
-            
 "
 H2 2020 (TBD),Hapith V,,Taiwan,Taitung Launch Site,TiSPACE,TBA,TBA,Low Earth,TBA,,,"
 First commercial Hapith V launch.
-            
 "
 2020 (TBD),H-IIA 202,,Japan,Tanegashima LA-Y1,MHI,QZS-1R,CAO,Tundra,Navigation,,,"
 Replacement for QZS-1 (Michibiki-1).
-            
 "
 2020 (TBD),H-IIA 204,,Japan,Tanegashima LA-Y1,MHI,JDRS,JAXA,Geosynchronous,Data relay,,,"
 Japanese Optical Data Relay Satellite.
-            
 "
 2020 (TBD),Hyperbola-1,Y2,China,Jiuquan,i-Space,TBA,TBA,Low Earth,TBA,,,"
 Second Hyperbola-1 flight.
-            
 "
 2020 (TBD),Jielong 2,,China,Jiuquan LA-4,China Rocket,TBA,TBA,Low Earth (SSO),TBA,,,"
 First flight of Jielong 2, also known as Smart Dragon 2 (SD-2).
-            
 "
 2020 (TBD),Kuaizhou 1A,Y3,China,Jiuquan SLS-2,ExPace,Jilin-1 TBA,Chang Guang Satellite Technology,Low Earth (SSO),Earth observation,,
 2020 (TBD),Kuaizhou 1A,Y4,China,Jiuquan SLS-2,ExPace,Jilin-1 TBA,Chang Guang Satellite Technology,Low Earth (SSO),Earth observation,,
 2020 (TBD),Kuaizhou 1A,Y5,China,Jiuquan SLS-2,ExPace,Jilin-1 TBA,Chang Guang Satellite Technology,Low Earth (SSO),Earth observation,,
 2020 (TBD),Kuaizhou 11,,China,Jiuquan,ExPace,"Gamma-ray Burst Detection Satellite (JSBT)
 Xiangrikui 1A (Sunflower-1A)
-Xiangrikui 1B (Sunflower-1B)","Shanghai Microsatellite Engineering Center
+Xiangrikui 1B (Sunflower-1B)
+Zhongwei 1","Shanghai Microsatellite Engineering Center
 Beijing Future Navigation Technology
-Beijing Future Navigation Technology","Low Earth (SSO)
+Beijing Future Navigation Technology
+Galaxy Space","Low Earth (SSO)
+Low Earth (SSO)
 Low Earth (SSO)
 Low Earth (SSO)","Technology demonstration
 Technology demonstration
-Technology demonstration",,,Zhongwei 1,Galaxy Space,Low Earth (SSO),Communications (5G),,
+Technology demonstration
+Communications (5G)",,
 2020 (TBD),LauncherOne,,United States,"Cosmic Girl, Mojave",Virgin Orbit,2020 (TBD),LauncherOne,,United States,"Cosmic Girl, Guam Airport",Virgin Orbit,2020 (TBD),Long March 2D,2D-Yxx,China,Jiuquan SLS-2,CASC,Shijian 19,CAST,Low Earth,Technology demonstration,,,"
 First flight of the New Generation Recoverable Satellite (NGRS).
-            
 "
 2020 (TBD),Long March 3B/E,,China,Xichang or Wenchang,CASC,Fengyun 4B,CMA,Geosynchronous,Meteorology,,
-2020 (TBD),Long March 4B,,China,Taiyuan LC-9,CASC,HaiYang 2C,"Ministry of Natural
-                    Resources",Low Earth (SSO),Earth observation,,
-2020 (TBD),Long March 4B,,China,Taiyuan LC-9,CASC,HaiYang 2D,"Ministry of Natural
-                    Resources",Low Earth,Earth observation,,
+2020 (TBD),Long March 4B,,China,Taiyuan LC-9,CASC,HaiYang 2C,Ministry of Natural Resources,Low Earth (SSO),Earth observation,,
+2020 (TBD),Long March 4B,,China,Taiyuan LC-9,CASC,HaiYang 2D,Ministry of Natural Resources,Low Earth,Earth observation,,
 2020 (TBD),Long March 4C,,China,Taiyuan LC-9,CASC,Fengyun 3E,CMA,Low Earth (SSO),Meteorology,,
 2020 (TBD),Long March 4C,,China,Jiuquan or Taiyuan,CASC,WCOM,CAS,Low Earth (SSO),Earth observation,,
-2020 (TBD),Long March 6,,China,Taiyuan LC-16,CASC,HaiYang 3A,"Ministry of Natural
-                    Resources",Low Earth (SSO),Earth observation,,
+2020 (TBD),Long March 6,,China,Taiyuan LC-16,CASC,HaiYang 3A,Ministry of Natural Resources,Low Earth (SSO),Earth observation,,
 2020 (TBD),Long March 6A,,China,Taiyuan LC-16,CASC,TBA,TBA,Low Earth (SSO),Flight test,,,"
 First flight of Long March 6A.
-            
 "
 2020 (TBD),Long March 8,,China,Wenchang LC-2,CASC,TBA,CASC,Low Earth (SSO),Flight test,,,"
-First flight of Long
-                    March 8, which will test vertical takeoff, vertical
-                    landing technologies.
-            
+First flight of Long March 8, which will test vertical takeoff, vertical landing technologies.
 "
-2020 (TBD),Long March TBA,,China,TBA,CASC,HaiYang 3B,"Ministry of Natural
-                    Resources",Low Earth (SSO),Earth observation,,
-2020 (TBD),Long March TBA,,China,TBA,CASC,HaiYang XX,"Ministry of Natural
-                    Resources",Low Earth,Earth observation,,,"
+2020 (TBD),Long March TBA,,China,TBA,CASC,HaiYang 3B,Ministry of Natural Resources,Low Earth (SSO),Earth observation,,
+2020 (TBD),Long March TBA,,China,TBA,CASC,HaiYang XX,Ministry of Natural Resources,Low Earth,Earth observation,,,"
 Ocean Salinity Observation Satellite (Experimental).
-            
 "
-2020 (TBD),Long March TBA,,China,Wenchang,CASC,Taihu-1,"Wuxi Kalman Navigation
-                    Technology",Low Earth,"Earth
-                    observationAIS ship tracking",,
+2020 (TBD),Long March TBA,,China,Wenchang,CASC,Taihu-1,Wuxi Kalman Navigation Technology,Low Earth,Earth observationAIS ship tracking,,
 2020 (TBD),Nebula 1,,China,TBA,Deep Blue Aerospace,TBA,TBA,Low Earth,TBA,,,"
 First flight of Nebula 1.
-            
 "
 2020 (TBD),PSLV,,India,Satish Dhawan,ISRO,CCI-Sat,ISRO,Low Earth,Signals intelligence,,
 2020 (TBD),PSLV-XL,,India,Satish Dhawan,ISRO,Cartosat-3A,ISRO,Low Earth (SSO),Earth observation,,
 2020 (TBD),PSLV-XL,,India,Satish Dhawan SLP,ISRO,GSAT-12R,ISRO,Geosynchronous,Communications,,,"
 Replacement for GSAT-12.
-            
 "
 2020 (TBD),PSLV,C51,India,Satish Dhawan FLP,ISRO,HRSAT-1 × 3,ISRO,Low Earth (SSO),Earth observation,,
 2020 (TBD),PSLV-XL,C52,India,Satish Dhawan SLP,ISRO,IRNSS-1J,ISRO,Geosynchronous,Navigation,,
@@ -795,13 +695,10 @@ Replacement for GSAT-12.
 2020 (TBD),PSLV-XL,,India,Satish Dhawan FLP,ISRO,RISAT-2A,ISRO,Low Earth (SSO),Earth observation,,
 2020 (TBD),Simorgh,,Iran,Semnan LP-2,ISA,Zafar 2,IUST,Low Earth,Earth observation,,
 2020 (TBD),Soyuz-2.1a,,Russia,Plesetsk Site 43/4,RVSN RF,Bars-M 3L,VKS,Low Earth (SSO),Reconnaissance,,
-2020 (TBD),Soyuz-2.1a / Fregat-M,,Russia,Plesetsk Site 43/x,RVSN RF,Meridian-M 10 (20L),"Ministry of
-                    Defence",Molniya,Communications,,
-2020 (TBD),Soyuz-2.1a / Fregat-M,,Russia,Plesetsk Site 43/4,RVSN RF,Neitron №1,"Ministry of
-                    Defence",?,Reconnaissance,,
+2020 (TBD),Soyuz-2.1a / Fregat-M,,Russia,Plesetsk Site 43/x,RVSN RF,Meridian-M 10 (20L),Ministry of Defence,Molniya,Communications,,
+2020 (TBD),Soyuz-2.1a / Fregat-M,,Russia,Plesetsk Site 43/4,RVSN RF,Neitron №1,Ministry of Defence,?,Reconnaissance,,
 2020 (TBD),Soyuz-2.1b,,Russia,Plesetsk Site 43/4,RVSN RF,Pion-NKS 901,VKS,Low Earth (SSO),ELINT,,,"
 Part of the Russian Liana ELINT system.
-            
 "
 2020 (TBD),SSLV,D2,India,Satish Dhawan FLP,ISRO,"BlackSky Global 5
 BlackSky Global 6
@@ -817,7 +714,6 @@ Earth observation
 Earth observation
 Earth observation",,,"
 First commercial SSLV launch.
-            
 "
 2020 (TBD),Vega-C,,France,Kourou ELV,Arianespace,"Pléiades-Neo 1
 Pléiades-Neo 2","CNES
@@ -826,5 +722,4 @@ Low Earth","Earth observation
 Earth observation",,
 2020 (TBD),TBA,,TBA,TBA,EROS-C1,ImageSat,Low Earth (SSO),Earth observation,,,"
 First of three satellites for the EROS-NG constellation.
-            
 "

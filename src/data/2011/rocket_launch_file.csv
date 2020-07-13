@@ -1,0 +1,416 @@
+Date and Time,Rocket,Flight Number,Launch Country,Launch Site,LSP,Payload,Operator,Orbit,Function,Decay,Outcome,Remarks
+20 January12:29:01,Zenit-3F,,Kazakhstan,Baikonur Site 45/1,Roscosmos,Elektro-L No.1,Roscosmos,Geostationary,Meteorology,In orbit,Operational,"
+Maiden flight of Zenit-3F.
+"
+20 January21:10,Delta IV-H,,United States,Vandenberg SLC-6,United Launch Alliance,USA-224 (KH-11),NRO,Low Earth,Earth observation,In orbit,Operational,"
+NRO Launch 49, first Delta IV Heavy launch from Vandenberg.
+"
+22 January05:37:57,H-IIB,,Japan,Tanegashima LA-Y2,JAXA,Kounotori 2 (HTV-2),JAXA,Low Earth (ISS),ISS logistics,30 March,Successful
+28 January01:31:41,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roscosmos,"Progress M-09M / 41P
+Kedr","Roscosmos
+RKK Energia","Low Earth (ISS)
+Low Earth","ISS logistics
+Amateur radio","26 April13:22:53
+4 January 2012","Successful
+Successful"
+1 February14:00,Rokot / Briz-KM,,Russia,Plesetsk Site 133/3,VKS,Kosmos 2470 (Geo-IK-2 No.11),VKS,Low Earth,Geodesy,15 July 2013,Launch failure,"
+Upper stage malfunctioned due to problems with the flight software, reached lower orbit than planned.
+"
+6 February12:26,Minotaur I,,United States,Vandenberg SLC-8,Orbital Sciences,USA-225 (RPP),NRO,Low Earth,Technology demonstration,In orbit,Operational,"
+NRO Launch 66
+"
+16 February21:50,Ariane 5 ES,,France,Kourou ELA-3,Arianespace,Johannes Kepler ATV,ESA,Low Earth (ISS),ISS logistics,21 June,Successful
+24 February21:53:24,Space Shuttle Discovery,,United States,Kennedy LC-39A,United Space Alliance,"STS-133
+Leonardo (PMM)
+ExPRESS-4","NASA
+ASI / NASA
+NASA","Low Earth (ISS)
+Low Earth (ISS)
+Low Earth (ISS)","ISS logistics
+ISS assembly
+ISS logistics","9 March16:57:17
+In orbit
+In orbit","Successful
+Operational
+Operational","
+Crewed flight, final flight of Discovery.
+"
+26 February03:07,Soyuz-2.1b / Fregat,,Russia,Plesetsk Site 43/4,RVSN RF,Kosmos 2471 (Glonass-K 701),VKS,Medium Earth,Navigation,In orbit,Successful
+4 March10:09:43,Taurus-XL 3110,,United States,Vandenberg LC-576E,Orbital Sciences,Glory,NASA,Intended: Low Earth (SSO),Climatology,4 March,Launch failure,"
+All payloads CubeSats except Glory, which would have been part of the A-train constellation. Fairing failed to separate.
+"
+5 March22:46,Atlas V 501,,United States,Cape Canaveral SLC-41,United Launch Alliance,USA-226 (X-37B FLT-2),U.S. Air Force,Low Earth,Technology demonstration,16 June 201212:48,Successful
+11 March23:38,"Delta IV-M+ (4,2)",,United States,Cape Canaveral SLC-37B,United Launch Alliance,USA-227 (SDS-3),NRO,Geosynchronous,Communications,In orbit,Operational,"
+NRO Launch 27
+"
+4 April22:18:20,Soyuz-FG,,Kazakhstan,Baikonur Site 1/5,Roscosmos,Soyuz TMA-21,Roscosmos,Low Earth (ISS),Expedition 27/28,16 September03:59:39,Successful
+9 April20:47:04,Long March 3A,,China,Xichang LC-3,CNSA,Compass-IGSO3,CNSA,IGSO,Navigation,In orbit,Operational
+14 April04:24,Atlas V 411,,United States,Vandenberg SLC-3E,United Launch Alliance,"USA-229 (NOSS)
+USA-229 (NOSS)","NRO
+NRO","Low Earth
+Low Earth","ELINT
+ELINT","In orbit
+In orbit","Operational
+Operational","
+NRO Launch 34
+"
+20 April04:42,PSLV,,India,Satish Dhawan FLP,ISRO,"Resourcesat-2
+YouthSat
+X-Sat","ISRO
+ISRO / MGU
+CREST","Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)","Earth observation
+Education
+Technology demonstration","In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational"
+22 April21:37,Ariane 5 ECA,,France,Kourou ELA-3,Arianespace,"Yahsat 1A
+New Dawn","Yahsat
+Intelsat","Geosynchronous
+Geosynchronous","Communications
+Communications","In orbit
+In orbit","Operational
+Partial spacecraft failure","
+New Dawn's C-Band antenna failed to deploy.
+"
+27 April13:05:21,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roscosmos,Progress M-10M / 42P,Roscosmos,Low Earth (ISS),ISS logistics,29 October13:00:31,Successful
+4 May17:41:33,Soyuz-2.1a / Fregat,,Russia,Plesetsk Site 43/4,RVSN RF,Meridian 4,VKS,Medium Earth,Communications,In orbit,Operational
+7 May18:10,Atlas V 401,,United States,Cape Canaveral SLC-41,United Launch Alliance,USA-230 (SBIRS-GEO 1),U.S. Air Force,Geosynchronous,Missile defense,In orbit,Operational
+16 May12:56,Space Shuttle Endeavour,,United States,Kennedy LC-39A,United Space Alliance,"STS-134
+AMS-02
+ExPRESS-3","NASA
+NASA
+NASA","Low Earth (ISS)
+Low Earth (ISS)
+Low Earth (ISS)","ISS logistics
+Cosmic-ray observatory
+ISS logistics","1 June06:35
+In orbit
+In orbit","Successful
+Operational
+Operational","
+Crewed flight, final flight of Endeavour.
+"
+20 May19:15,Proton-M/Briz-M Enhanced,,Kazakhstan,Baikonur Site 200/39,International Launch Services,Telstar 14R,Telesat,Geosynchronous,Communications,In orbit,Partial spacecraft failure,"
+Second solar panel failed to deploy due to tangled cable
+"
+20 May20:38,Ariane 5 ECA,,France,Kourou ELA-3,Arianespace,"ST-2
+INSAT-4G/GSAT-8","SingTel / Chunghwa
+ISRO","Geosynchronous
+Geosynchronous","Communications
+Communications","In orbit
+In orbit","Operational
+Operational"
+7 June20:12:45,Soyuz-FG,,Kazakhstan,Baikonur Site 1/5,Roscosmos,Soyuz TMA-02M,Roscosmos,Low Earth (ISS),Expedition 28/29,22 November02:26,Successful
+10 June14:20,Delta II 7320,,United States,Vandenberg SLC-2W,United Launch Alliance,SAC-D,CONAE / NASA,Low Earth (SSO),Oceanography,In orbit,Operational,"
+Final scheduled flight of Delta II 7300 series; spacecraft carrying NASA's Aquarius instrument.
+"
+15 June09:14,Safir-1A,,Iran,Semnan LP-1,ISA,Rasad 1,ISA,Low Earth,Earth observation,6 July 2011,Successful
+20 June16:13,Long March 3B,,China,Xichang LC-2,CNSA,ChinaSat 10,China Satellite Communications,Geosynchronous,Communications,In orbit,Operational
+21 June14:38,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roscosmos,Progress M-11M / 43P,Roscosmos,Low Earth (ISS),ISS logistics,1 September10:21:41,Successful
+27 June16:00,Soyuz-U,,Russia,Plesetsk Site 16/2,VKS,Kosmos 2472 (Kobalt-M No.7),VKS,Low Earth,Reconnaissance,24 October,Successful
+30 June03:09,Minotaur I,,United States,MARS LP-0B,Orbital Sciences,USA-231 (ORS-1),ORSO,Low Earth,Earth observation,12 March 2018,Successful
+6 July04:28,Long March 2C,,China,Jiuquan SLS-2,CNSA,Shijian XI-03,CNSA,Low Earth (SSO),Technology demonstration,In orbit,Operational
+8 July15:29,Space Shuttle Atlantis,,United States,Kennedy LC-39A,United Space Alliance,"STS-135
+Raffaelo MPLM
+PSSC-2","NASA
+NASA
+U.S. Air Force","Low Earth (ISS)
+Low Earth (ISS)
+Low Earth","ISS logistics
+ISS logistics
+Technology demonstration","21 July 201109:57
+Successful
+8 December","
+Crewed flight, final flight of Atlantis and of Space Shuttle programme.
+"
+11 July15:41,Long March 3C,,China,Xichang LC-2,CNSA,Tianlian I-02 (1B),CNSA,Geosynchronous,Communications,In orbit,Operational
+13 July02:27,Soyuz-2.1a / Fregat,,Kazakhstan,Baikonur Site 31/6,Starsem,"Globalstar M081
+Globalstar M083
+Globalstar M085
+Globalstar M088
+Globalstar M089
+Globalstar M091","Globalstar
+Globalstar
+Globalstar
+Globalstar
+Globalstar
+Globalstar","Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth","Communications
+Communications
+Communications
+Communications
+Communications
+Communications","In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational
+Operational
+Operational
+Operational"
+15 July11:18,PSLV-XL,,India,Satish Dhawan FLP,ISRO,GSAT-12,ISRO,Geosynchronous,Communications,In orbit,Operational
+15 July23:16,Proton-M / Briz-M Enhanced,,Kazakhstan,Baikonur Site 200/39,International Launch Services,"SES-3
+KazSat-2","SES World Skies (July–September)SES S.A. (September—)
+JSC KazSat","Geosynchronous
+Geosynchronous","Communications
+Communications","In orbit
+In orbit","Operational
+Operational"
+16 July06:41,"Delta IV-M+ (4,2)",,United States,Cape Canaveral SLC-37B,United Launch Alliance,USA-232 (GPS-IIF-2),U.S. Air Force,Medium Earth,Navigation,In orbit,Operational
+18 July02:31,Zenit-3F,,Kazakhstan,Baikonur Site 45/1,Roscosmos,Spektr-R (RadioAstron),Roscosmos,High Earth,Radio astronomy,In orbit,Successful
+26 July21:44,Long March 3A,,China,Xichang LC-3,CNSA,Compass-IGSO4,CNSA,IGSO,Navigation,In orbit,Operational
+29 July07:42,Long March 2C,,China,Jiuquan SLS-2,CNSA,Shijian XI-02,CNSA,Low Earth (SSO),Technology demonstration,In orbit,Operational
+5 August16:25,Atlas V 551,,United States,Cape Canaveral SLC-41,United Launch Alliance,Juno,NASA,Jovicentric,Jupiter orbiter,In orbit,Operational
+6 August22:52,Ariane 5 ECA,,France,Kourou ELA-3,Arianespace,"Astra 1N
+BSAT-3c / JCSAT-110R","SES Astra (August–September)SES S.A. (September—)
+BSAT / JSAT","Geosynchronous
+Geosynchronous","Communications
+Communications","In orbit
+In orbit","Operational
+Operational"
+11 August16:15,Long March 3B/E,,China,Xichang LC-2,CNSA,Paksat-1R,SUPARCO,Geosynchronous,Communications,In orbit,Operational
+15 August22:57,Long March 4B,,China,Taiyuan LC-2,CNSA,Hai Yang 2A,CAST,Low Earth (SSO),Oceanography,In orbit,Operational
+17 August07:12,Dnepr,,Russia,Dombarovsky Site 13,ISC Kosmotras,"Sich-2
+NigeriaSat-2
+NigeriaSat-X
+Rasat
+EduSAT
+AprizeSat-5
+AprizeSat-6
+BPA-2","NKAU
+NASRDA
+NASRDA
+TÜBİTAK
+GAUSS Srl
+exactEarth
+exactEarth
+Hartron-Arkos","Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)","Earth observation
+Earth observation
+Technology demonstration
+Earth observation
+Technology demonstration
+Communications
+Communications
+Technology demonstration","In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational
+Operational
+Operational
+Operational
+Operational
+Successful"
+17 August21:25,Proton-M / Briz-M Enhanced,,Kazakhstan,Baikonur Site 200/39,Khrunichev,Ekspress AM-4,RSCC,Intended: GeosynchronousAchieved: GTO,Communications,25 March 2012,Launch failure,"
+Briz-M upper stage failed before the planned fourth burn. An insufficient time slot was allocated for re-setting the gyroscopes of the upper stage control system before launch, which led to loss of adequate attitude control in flight.
+"
+18 August09:28,Long March 2C,,China,Jiuquan SLS-2,CNSA,Shijian XI-04,CNSA,Intended: Low Earth (SSO),Technology demonstration,18 August,Launch failure,"
+Failed to reach orbit. Second stage's vernier engine support structure failed in flight, led to loss of attitude control.
+"
+24 August13:00,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roscosmos,Progress M-12M / 44P,Roscosmos,Intended: Low Earth (ISS),ISS logistics,24 August,Launch failure,"
+Third stage engine failure 325 seconds after launch due to the gas generator fuel supply pipeline being blocked by contaminants.
+"
+10 September13:08:52,Delta II 7920H,,United States,Cape Canaveral SLC-17B,United Launch Alliance,"GRAIL-A (Ebb)
+GRAIL-B (Flow)","NASA
+NASA","Selenocentric
+Selenocentric","Lunar orbiter
+Lunar orbiter","17 December 201222:28:51
+17 December 201222:29:21","Successful
+Successful","
+Final launch of Delta II Heavy, final Delta II launch from Cape Canaveral, and last launch from SLC-17.
+"
+18 September16:33,Long March 3B/E,,China,Xichang LC-2,CNSA,Chinasat-1A,China Satcom,Geosynchronous,Communications,In orbit,Operational
+20 September22:47,Proton-M / Briz-M,,Kazakhstan,Baikonur Site 81/24,Khrunichev,Kosmos 2473 (Garpun #1),VKS,Geosynchronous,Communications,In orbit,Operational
+21 September21:38,Ariane 5 ECA,,France,Kourou ELA-3,Arianespace,"Arabsat 5C
+SES-2","Arabsat
+SES S.A.","Geosynchronous
+Geosynchronous","Communications
+Communications","In orbit
+In orbit","Operational
+Operational"
+23 September04:36:50,H-IIA,,Japan,Tanegashima LA-Y1,MHI,IGS Optical 4,CSICE,Low Earth (SSO),Reconnaissance,In orbit,Successful
+24 September20:18,Zenit-3SL,,Norway,Ocean Odyssey,Sea Launch,Atlantic Bird 7,Eutelsat,Geosynchronous,Communications,In orbit,Operational
+27 September15:49,Minotaur IV+,,United States,Kodiak LP-1,Orbital Sciences,TacSat-4,U.S. Air Force,Highly elliptical,Technology demonstration,In orbit,Operational
+29 September13:16:03,Long March 2F/G,,China,Jiuquan SLS-1,CNSA,Tiangong-1,CNSA,Low Earth,Space station,2 April 201800:16,Successful,"
+Maiden flight of Long March 2F/G, first Chinese space station.
+"
+29 September18:32,Proton-M / Briz-M Enhanced,,Kazakhstan,Baikonur Site 200/39,International Launch Services,QuetzSat 1,SES Satellite Leasing,Geosynchronous,Communications,In orbit,Operational,"
+Intended for lease to QuetzSat.
+"
+2 October20:15,Soyuz-2.1b / Fregat,,Russia,Plesetsk Site 43/4,RVSN RF,Kosmos 2474 (Glonass-M 742),VKS,Medium Earth,Navigation,In orbit,Operational
+5 October21:00,Zenit-3SLB,,Kazakhstan,Baikonur Site 45/1,Land Launch,Intelsat 18,Intelsat,Geosynchronous,Communications,In orbit,Operational
+7 October08:21,Long March 3B/E,,China,Xichang LC-2,CNSA,Eutelsat W3C,Eutelsat,Geosynchronous,Communications,In orbit,Operational
+12 October05:31,PSLV-CA,,India,Satish Dhawan FLP,ISRO,"Megha-Tropiques
+SRMSAT","ISRO / CNES
+SRM","Low Earth
+Low Earth","Climatology
+Climatology","In orbit
+In orbit","Operational
+Operational",VesselSat-1,Luxspace,Low Earth,Communications,In orbit,Operational
+19 October18:48,Proton-M / Briz-M Enhanced,,Kazakhstan,Baikonur Site 200/39,International Launch Services,ViaSat-1,ViaSat-IOM / ManSat,Geosynchronous,Communications,In orbit,Operational
+21 October10:30,Soyuz ST-B / Fregat-MT,,France,Kourou ELS,Arianespace,"Galileo IOV 1
+Galileo IOV 2","ESA
+ESA","Medium Earth
+Medium Earth","Navigation / Technology demonstration
+Navigation / Technology demonstration","In orbit
+In orbit","Operational
+Operational","
+First Soyuz launch from Kourou.
+"
+28 October09:48:01,Delta II 7920-10,,United States,Vandenberg SLC-2W,United Launch Alliance,NPP,NASA / NOAA,Low Earth,Meteorology,In orbit,Operational,30 October10:11,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roscosmos,"Progress M-13M / 45P
+Chibis-M (RS-39)","Roscosmos
+IKI","Low Earth (ISS)
+Low Earth","ISS logistics
+Ionospheric research","25 January 2012
+15 October 2014","Successful
+Successful"
+31 October21:58:10,Long March 2F,,China,Jiuquan SLS-1,CNSA,"Shenzhou 8
+Shenzhou-8-GC","CNSA
+CNSA","Low Earth (Tiangong-1)
+Low Earth (Tiangong-1)","Technology demonstration
+Technology demonstration","17 November11:36
+2 April 2012","Successful
+Successful","
+Uncrewed flight, first Chinese orbital docking.
+"
+4 November12:51:41,Proton-M / Briz-M,,Kazakhstan,Baikonur Site 81/24,Khrunichev,"Kosmos 2475 (Glonass-M 743)
+Kosmos 2476 (Glonass-M 744)
+Kosmos 2477 (Glonass-M 745)","VKS
+VKS
+VKS","Medium Earth
+Medium Earth
+Medium Earth","Navigation
+Navigation
+Navigation","In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational"
+8 November20:16,Zenit-2M,,Kazakhstan,Baikonur Site 45/1,Roscosmos,"Fobos-Grunt
+Yinghuo-1","Roscosmos
+CNSA","Intended: AreocentricAchieved: Low Earth
+Intended: AreocentricAchieved: Low Earth","Phobos sample return
+Mars orbiter","
+First Russian attempt at an interplanetary mission since 1996.First Chinese Mars probeSpacecraft stranded in low Earth orbit, as telemetry was lost soon after launch and the two trans-Martian injection burns by the payload did not take place
+"
+9 November03:21,Long March 4B,,China,Taiyuan LC-2,CNSA,"Yaogan 12
+Tian Xun 1","CNSA
+Nanjing University of Aeronautics and Astronautics","Low Earth (SSO)
+Low Earth (SSO)","Reconnaissance
+Technology demonstration","In orbit
+7 February 2016","Operational
+Successful"
+14 November04:14,Soyuz-FG,,Kazakhstan,Baikonur Site 1/5,Roscosmos,Soyuz TMA-22,Roscosmos,Low Earth (ISS),Expedition 29/30,27 April 2012,Successful
+20 November00:15,Long March 2D,,China,Jiuquan SLS-2,CNSA,"Shiyan Weixing 4
+Chuang Xin 1C","CNSA
+CNSA","Low Earth (SSO)
+Low Earth (SSO)","Technology demonstration
+Technology demonstration","In orbit
+In orbit","Operational
+Operational"
+25 November19:10:34,Proton-M / Briz-M Enhanced,,Kazakhstan,Baikonur Site 200/39,International Launch Services,AsiaSat 7,AsiaSat,Geosynchronous,Communications,In orbit,Operational
+26 November15:02,Atlas V 541,,United States,Cape Canaveral SLC-41,United Launch Alliance,Mars Science Laboratory (Curiosity),NASA,TMI to Martian Surface,Mars rover,6 August 201205:18,Successful,"
+Maiden flight of Atlas V 541, largest Mars rover yet launched.
+"
+28 November08:25:57,Soyuz-2.1b / Fregat,,Russia,Plesetsk Site 43/4,RVSN RF,Kosmos 2478 (Glonass-M 746),VKS,Medium Earth,Navigation,In orbit,Operational
+29 November18:50,Long March 2C,,China,Taiyuan LC-2,CNSA,Yaogan 13,CNSA,Low Earth (SSO),Reconnaissance,In orbit,Operational
+1 December21:07,Long March 3A,,China,Xichang LC-3,CNSA,Compass-IGSO5,CNSA,IGSO,Navigation,In orbit,Operational
+11 December11:17,Proton-M / Briz-M Enhanced,,Kazakhstan,Baikonur Site 81/24,Roscosmos,"Luch 5A
+Amos-5","Gonets Satellite System
+SCL","Geosynchronous
+Geosynchronous","Communications
+Communications","In orbit
+In orbit","Operational
+Operational"
+12 December01:21,H-IIA,,Japan,Tanegashima LA-Y1,MHI,IGS Radar 3,CSICE,Low Earth (SSO),Reconnaissance (radar),In orbit,Operational
+17 December02:03:08,Soyuz ST-A / Fregat,,France,Kourou ELS,Arianespace,"Pléiades-HR 1A
+FASat-Charlie (SSOT)
+ELISA 1
+ELISA 2
+ELISA 3
+ELISA 4","CNES
+MDN
+CNES / DGA
+CNES / DGA
+CNES / DGA
+CNES / DGA","Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)","Earth observation
+Earth observation
+ELINT
+ELINT
+ELINT
+ELINT","In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational
+Operational
+Operational
+Operational"
+19 December16:41,Long March 3B/E,,China,Xichang LC-2,CNSA,NigComSat-1R,NIGCOMSAT / NASRDA,Geosynchronous,Communications,In orbit,Operational
+21 December13:16,Soyuz-FG,,Kazakhstan,Baikonur Site 1/5,Roscosmos,Soyuz TMA-03M,Roscosmos,Low Earth (ISS),Expedition 30/31,1 July 201208:14,Successful
+22 December03:26,Long March 4B,,China,Taiyuan LC-2,CNSA,Ziyuan 1-02C,CNSA,Low Earth (SSO),Earth observation,In orbit,Operational
+23 December12:08,Soyuz-2.1b / Fregat,,Russia,Plesetsk Site 43/4,VKO,Meridian 5,VKO,Intended: Molniya,Communications,23 December,Launch failure,"
+Third stage engine malfunctioned 421 seconds after launch, failed to reach orbit; first launch conducted by the Russian Aerospace Defence Forces
+"
+28 December17:09,Soyuz-2.1a / Fregat,,Kazakhstan,Baikonur Site 31/6,Starsem,"Globalstar M080
+Globalstar M082
+Globalstar M084
+Globalstar M086
+Globalstar M090
+Globalstar M092","Globalstar
+Globalstar
+Globalstar
+Globalstar
+Globalstar
+Globalstar","Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth","Communications
+Communications
+Communications
+Communications
+Communications
+Communications","In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational
+Operational
+Operational
+Operational"

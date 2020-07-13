@@ -1,0 +1,342 @@
+Date and Time,Rocket,Flight Number,Launch Country,Launch Site,LSP,Payload,Operator,Orbit,Function,Decay,Outcome,Remarks
+16 January00:30,Titan IVB (401)/Centaur,,United States,Cape Canaveral SLC-40,Lockheed Martin,Milstar DFS-5 (USA-164),US Air Force,Geosynchronous,Communications,In orbit,Operational
+23 January23:46,Ariane 4 42L,,France,Kourou ELA-2,Arianespace,INSAT-3C,ISRO,Geosynchronous,Communications,In orbit,Operational,"
+Final flight of Ariane 4 42L
+"
+4 February02:45,H-IIA 2024,,Japan,Tanegashima LA-Y1,MHI,"MDS-1
+DASH","JAXA
+JAXA","Geosynchronous
+Geosynchronous","Technology demonstration
+Re-entry demonstration","In orbit
+In orbit","Successful
+Spacecraft failure","
+Maiden flight of H-IIA 2024. DASH failed to separate from payload adapter.
+"
+5 February20:58,Pegasus-XL,,United States,"Stargazer, Cape Canaveral",Orbital Sciences,RHESSI,NASA,Low Earth,Heliophysics,In orbit,Successful
+11 February17:45,Delta II 7920-10C,,United States,Vandenberg SLC-2W,Boeing IDS,"Iridium 91
+Iridium 90
+Iridium 94
+Iridium 95
+Iridium 96","Iridium
+Iridium
+Iridium
+Iridium
+Iridium","Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth","Communications
+Communications
+Communications
+Communications
+Communications","13 March 2019
+23 January 2019
+18 April 2018
+25 March 2019
+30 May 2020","Successful
+Successful
+Successful
+Successful
+Successful"
+21 February12:43,Atlas IIIB,,United States,Cape Canaveral SLC-36B,International Launch Services,Echostar 7,Echostar,Geosynchronous,Communications,In orbit,Operational,"
+Maiden flight of Atlas IIIB.
+"
+23 February06:59,Ariane 4 44L,,France,Kourou ELA-2,Arianespace,Intelsat 904,Intelsat,Geosynchronous,Communications,In orbit,Operational
+25 February17:26,Soyuz-U,,Russia,Plesetsk Site 43/3,VKS,Kosmos 2387,VKS,Low Earth,Reconnaissance,27 June02:30,Successful
+1 March01:07,Ariane 5G,,France,Kourou ELA-3,Arianespace,Envisat,ESA,Sun-synchronous,Environmental research,In orbit,Operational
+1 March11:22,Space Shuttle Columbia,,United States,Kennedy LC-39A,United Space Alliance,STS-109,NASA,Low Earth (HST),HST servicing,12 March,Operational,"
+Crewed orbital flight with 7 astronautsHubble Space Telescope servicing mission 3B
+"
+8 March22:59,Atlas IIA,,United States,Cape Canaveral SLC-36A,International Launch Services,TDRS-9 (TDRS-I),NASA,Geosynchronous,Communications,In orbit,Partial spacecraft failureOperational,"
+Propellant issues shortly after launch halved spacecraft fuel supply
+"
+17 March09:21,Rockot/Briz-KM,,Russia,Plesetsk Site 133/3,Eurockot,"GRACE 1
+GRACE 2","NASA
+NASA","Sun-synchronous
+Sun-synchronous",,"In orbit
+In orbit","Operational
+Operational"
+21 March20:13,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roskosmos,Progress M1-8,Roskosmos,Low Earth (ISS),Logistics,25 June12:13,Successful,"
+ISS flight 7P
+"
+25 March14:15,Long March 2F,,China,Jiuquan,CAAC,"Shenzhou 3
+Shenzhou spacecraft orbital module","CAAC
+CAAC","Low Earth
+Low Earth","Test spacecraft
+Scientific research","1 April08:51
+12 November","Successful
+Successful"
+29 March01:29,Ariane 4 44L,,France,Kourou ELA-2,Arianespace,"Astra 3A
+JCSAT 8","SES Astra
+JSAT","Geosynchronous
+Geosynchronous","Communications
+Communications","In orbit
+In orbit","Operational
+Operational"
+30 March17:25,Proton-K/DM-2M,,Kazakhstan,Baikonur Site 81/23,International Launch Services,Intelsat 903,Intelsat,Geosynchronous,Communications,In orbit,Operational
+1 April22:06,Molniya-M,,Russia,Plesetsk Site 16/2,VKS,Kosmos 2388,VKS,Molniya,Missile early warning,14 September 2011,Operational
+8 April20:44,Space Shuttle Atlantis,,United States,Kennedy LC-39B,United Space Alliance,"STS-110
+S0 Truss","NASA
+NASA","Low Earth (ISS)
+Low Earth (ISS)","ISS assembly
+ISS component","19 April
+In orbit","Successful
+Operational","
+Crewed orbital flight with 7 astronauts
+"
+16 April23:02,Ariane 4 44L,,France,Kourou ELA-2,Arianespace,NSS 7,SES New Skies,Geosynchronous,Communications,In orbit,Operational
+25 April06:26,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roskosmos,Soyuz TM-34,Roskosmos,Low Earth (ISS),ISS escape craft,10 November,Successful,"
+Crewed orbital flight with 3 cosmonauts including one space tourist and the first South African space travellerFinal flight of Soyuz-TM spacecraft
+"
+4 May01:31,Ariane 4 42P,,France,Kourou ELA-2,Arianespace,"SPOT-5
+BreizhSat-Oscar 47 (Indefix)
+BreizhSat-Oscar 48 (Indefix)","CNES
+AMSAT
+AMSAT","Low Earth
+Low Earth
+Low Earth","Earth imaging
+Communications
+Communications","In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational","
+Final flight of Ariane 4 42P
+"
+4 May09:54,Delta II 7920-10L,,United States,Vandenberg SLC-2W,Boeing IDS,Aqua,NASA,Sun-synchronous (A-train),Environmental research,In orbit,Operational
+7 May17:00,Proton-K/DM-2M,,Kazakhstan,Baikonur Site 81/23,International Launch Services,DirecTV-5,DirecTV,Geosynchronous,Communications,In orbit,Operational
+15 May01:50,Long March 4B,,China,Taiyuan,,"Hai Yang 1
+Feng Yun 1D","CASC
+CASC","Low Earth
+Low Earth","Earth observation
+Weather satellite","In orbit
+In orbit","Operational
+Operational"
+28 May15:25,Shavit-1,,Israel,Palmachim,IAI,Ofeq-5,,Low Earth (retrograde),Reconnaissance,In orbit,Operational
+28 May18:14,Kosmos-3M,,Russia,Plesetsk Site 132/1,VKS,Kosmos 2389,,Low Earth,,In orbit,Operational
+5 June06:44,Ariane 4 44L,,France,Kourou ELA-2,Arianespace,Intelsat 905,Intelsat,Geosynchronous,Communications,In orbit,Operational
+5 June21:22,Space Shuttle Endeavour,,United States,Kennedy LC-39A,United Space Alliance,"STS-111
+Leonardo MPLM
+Canadarm2 Mobile Base Structure","NASA
+ASI / NASA
+CSA / NASA","Low Earth (ISS)
+Low Earth (ISS)
+Low Earth (ISS)","ISS assembly
+ISS logistics
+ISS component","19 June
+Successful
+In orbit","
+Crewed orbital flight with 7 astronautsISS crew exchange (launched Expedition 5)
+"
+10 June01:14,Proton-K / DM-2M,,Kazakhstan,Baikonur Site 200/39,Khrunichev,Ekspress A4 (A1R),RSCC,Geosynchronous,Communications,In orbit,Successful,"
+Guidance error during ascent, recovered and placed in correct orbit using upper stage. Decommissioned in early 2020 after seventeen years in service.
+"
+15 June22:39,Zenit-3SL,,Norway,Ocean Odyssey,Sea Launch,Galaxy 3C,PanAmSat,Geosynchronous,Communications,In orbit,Operational
+20 June09:33,Rockot / Briz-KM,,Russia,Plesetsk Site 133/3,Eurockot,"Iridium 97
+Iridium 98","Iridium
+Iridium","Low Earth
+Low Earth","Communications
+Communications","27 December 201917:30
+24 August 2018","Successful
+Successful"
+24 June18:23,Titan 23G,,United States,Vandenberg SLC-4W,Lockheed Martin,NOAA-17 (NOAA-M),NOAA,Low Earth (SSO),Meteorology,In orbit,Operational
+26 June05:36,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roscosmos,Progress M-46,Roscosmos,Low Earth (ISS),ISS logistics,14 October,Successful,"
+ISS flight 8P
+"
+3 July06:47,Delta II 7425-9.5,,United States,Cape Canaveral SLC-17A,Boeing IDS,CONTOUR,NASA,Intended: Heliocentric,Comet probe,In orbit,Failure,"
+Exploded during injection into Heliocentric orbitIntended to visit comet 2P/Encke
+"
+5 July23:22,Ariane 5G,,France,Kourou ELA-3,Arianespace,"Stellat 5
+N-STAR c","Stellat
+Stellat","Geosynchronous
+Geosynchronous","Communications
+Communications","In orbit
+In orbit","Operational
+Operational"
+8 July06:35,Kosmos-3M,,Russia,Plesetsk Site 132/1,VKS,"Kosmos 2390
+Kosmos 2391",,"Low Earth
+Low Earth","Communications
+Communications","In orbit
+In orbit","Operational
+Operational"
+25 July15:13,Proton-K/17S40,,Kazakhstan,Baikonur Site 81/24,VKS,Kosmos 2392,,Low Earth,Reconnaissance,In orbit,Operational
+21 August22:05,Atlas V 401,,United States,Cape Canaveral SLC-41,International Launch Services,Hot Bird 6,Eutelsat,Geosynchronous,Communications,In orbit,Operational,"
+Maiden flight of Atlas V and the first launch of an EELV class rocket
+"
+22 August05:15,Proton-K/DM-2M,,Kazakhstan,Baikonur Site 81/23,International Launch Services,Echostar 8,Echostar,Geosynchronous,Communications,In orbit,Operational
+28 August22:45,Ariane 5G,,France,Kourou ELA-3,Arianespace,"Atlantic Bird 1
+Meteosat 8","Eutelsat
+Eumetsat","Geosynchronous
+Geosynchronous","Communications
+Weather satellite","In orbit
+In orbit","Operational
+Operational"
+6 September06:44,Ariane 4 44L,,France,Kourou ELA-2,Arianespace,Intelsat 906,Intelsat,Geosynchronous,Communications,In orbit,Operational
+10 September08:20,H-IIA 2024,,Japan,Tanegashima LA-Y1,,"USERS
+DRTS","JAXA
+NASDA","Low Earth
+Geostationary","Microgravity experiments
+Communications","15 June 200719:56
+In orbit","Successful
+Successful"
+12 September10:23,PSLV-C,,India,Satish Dhawan,ISRO,Kalpana-1 (METSAT 1),ISRO,Geostationary,Weather satellite,In orbit,Operational
+15 September10:30,Kaituozhe-1,,China,Taiyuan,,HTSTL-1,Tsinghua University,Intended: Low Earth,Experimental,15 September,Launch failure,"
+Second stage malfunction
+"
+18 September22:04,Atlas IIAS,,United States,Cape Canaveral SLC-36A,International Launch Services,Hispasat 1D,Hispasat,Geosynchronous,Communications,In orbit,Operational
+25 September16:58,Soyuz-FG,,Kazakhstan,Baikonur Site 1/5,Roskosmsos,Progress M1-9,Roskosmos,Low Earth (ISS),Logistics,1 February 2003,Successful,"
+ISS flight 9P
+"
+26 September14:27,Kosmos-3M,,Russia,Plesetsk Site 132/1,VKS,Nadezhda-M,VKS,Low Earth,Navigation,In orbit,Operational
+7 October10:46,Space Shuttle Atlantis,,United States,Kennedy LC-39B,United Space Alliance,"STS-112
+S1 Truss
+CETA","NASA
+NASA
+NASA","Low Earth (ISS)
+Low Earth (ISS)
+Low Earth (ISS)","ISS assembly
+ISS component
+ISS component","18 October
+In orbit
+In orbit","Successful
+Operational
+Operational","
+Crewed orbital flight with 6 astronauts
+"
+15 October18:20,Soyuz-U,,Russia,Plesetsk Site 43/3,,Foton-M1,ESA,Intended: Low Earth,Microgravity experiments,T+29 seconds,Launch failure,"
+LRB exploded
+"
+17 October04:41,Proton-K/17S40,,Kazakhstan,Baikonur Site 81/23,,INTEGRAL,ESA,High Earth (High eccentricity),Astrophysics,In orbit,Operational,"
+Final flight of 17S40 upper stage
+"
+27 October03:17,Long March 4B,,China,Taiyuan,,Zi Yau 2,CAST,Low Earth,Reconnaissance,In orbit,Operational
+30 October03:11,Soyuz-FG,,Kazakhstan,Baikonur Site 1/5,Roskosmos,Soyuz TMA-1,Roskosmos,Low Earth (ISS),ISS escape craft,4 May 2003,Successful,"
+Crewed orbital flight with 3 cosmonautsMaiden flight of Soyuz-TMA spacecraft
+"
+20 November22:39,"Delta IV-M+ (4,2) (9240)",,United States,Cape Canaveral SLC-37B,Boeing IDS,Eutelsat W5,Eutelsat,Geosynchronous,Communications,In orbit,Operational,"
+Maiden flight of Delta IV
+"
+24 November00:49,Space Shuttle Endeavour,,United States,Kennedy LC-39A,United Space Alliance,"STS-113
+P1 Truss
+MEPSI","NASA
+NASA
+NASA","Low Earth (ISS)
+Low Earth (ISS)
+Low Earth","ISS assembly
+ISS component
+Technology demonstration","7 December
+In orbit
+31 January 2003","Successful
+Operational
+Successful","
+Crewed orbital flight with 7 astronautsISS crew exchange (launched Expedition 6)MEPSI is 2 picosatellites connected by a 15 meter tether
+"
+25 November23:04,Proton-K/DM-2M,,Kazakhstan,Baikonur Site 81/23,International Launch Services,Astra 1K,SES Astra,Intended: GeosynchronousAttained: Low Earth,Communications,10 December,Launch failure,"
+Upper stage malfunction resulted in satellite being placed into an unusable parking orbit. Intentionally de-orbited.
+"
+28 November06:07,Kosmos-3M,,Russia,Plesetsk Site 132/1,VKS,"AlSat-1
+Mozhayets-3
+Rubin-3-DSI","CNTS
+Mozhaisky
+OHB System","Low Earth
+Low Earth
+Low Earth","Disaster monitoring
+Technology demonstration
+Measure carrier rocket performance","In orbit
+In orbit
+In orbit","Operational
+Operational
+Successful","
+AlSat was first Algerian satellite, Rubin intentionally remained attached to upper stage
+"
+5 December02:42,Atlas IIA,,United States,Cape Canaveral SLC-36A,International Launch Services,TDRS-10 (TDRS-J),NASA,Geosynchronous,Communications,In orbit,Operational,"
+Final flight of Atlas IIA
+"
+11 December22:22,Ariane 5ECA,,France,Kourou ELA-3,Arianespace,"Hot Bird 7
+Stentor","Eutelsat
+Eutelsat","Intended: Geosynchronous
+Intended: Geosynchronous","Communications
+Communications","
+Engine failure leading to loss of control, self-destruct activatedMaiden flight of Ariane 5ECA
+"
+14 December23:04,H-IIA 202,,Japan,Tanegashima LA-Y1,,"Adeos 2
+Mu-Labsat
+RITE
+RITE
+FedSat
+WEOS (Kanta-Kun)","NASDA
+NASDA
+NASDA
+NASDA
+Centre for Satellite Systems
+Chiba Institute of Technology","Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth","Environmental research
+Technology development
+Technology development
+Technology development
+Communications
+Landsat","In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational
+Operational
+Operational
+Operational","
+RITE deployed by Mu-Labsat on 14 March 2003 at 01:40 and 01:50 UTC
+"
+17 December23:04,Ariane 4 44L,,France,Kourou ELA-2,Arianespace,NSS-6,SES New Skies,Geosynchronous,Communications,In orbit,Operational
+20 December17:00,Dnepr,,Kazakhstan,Baikonur Site 109/95,ISC Kosmotras,"LatinSat 1
+LatinSat 2
+SaudiSat 1S
+UniSat 2
+Rubin 2","Aprize
+Aprize
+RSRI
+University of Rome La Sapienza
+OHB System","Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth","Communications
+Communications
+Communications
+Technology development
+Communications","In orbit
+In orbit
+In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational
+Operational
+Operational"
+24 December12:20,Molniya-M,,Russia,Plesetsk Site 16/2,VKS,Kosmos 2393,VKS,Molniya,Missile early warning,22 December 2013,Successful
+25 December10:37,Proton-K/DM-2,,Kazakhstan,Baikonur Site 81/23,VKS,"Kosmos 2394 (GLONASS)
+Kosmos 2395 (GLONASS)
+Kosmos 2396 (GLONASS)","KNITs
+KNITs
+KNITs","Medium Earth
+Medium Earth
+Medium Earth","Navigation
+Navigation
+Navigation","In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational"
+29 December16:40,Long March 2F,,China,Jiuquan,,"Shenzhou 4
+Shenzhou spacecraft orbital module","CASC
+CASC","Low Earth
+Low Earth","Test spacecraft
+Test spacecraft","5 January 200311:16
+9 September 2003","Successful
+Successful"
+29 December23:16,Proton-M/Briz-M,,Kazakhstan,Baikonur Site 81/24,International Launch Services,Nimiq 2,Telesat,Geosynchronous,Communications,In orbit,Operational

@@ -1,0 +1,407 @@
+Date and Time,Rocket,Flight Number,Launch Country,Launch Site,LSP,Payload,Operator,Orbit,Function,Decay,Outcome,Remarks
+12 January18:47:08,Delta II 7925,,United States,Cape Canaveral SLC-17B,Boeing IDS,"Deep Impact
+Deep Impact impactor","NASA
+NASA","Heliocentric
+Heliocentric","Comet flyby
+Comet impactor","In orbit
+4 July05:52","Successful
+Successful","
+Visited 9P/Tempel. Impactor impacted comet to test composition, main probe subsequently reused for EPOXI mission to study extrasolar planets and conduct a flyby of comet 103P/Hartley. Stardust-NExT mission will fly past comet to inspect the crater caused by the impactor, as debris thrown up prevented Deep Impact from doing so.
+"
+18 January13:58:00,Super Loki,,Norway,Andøya,DLR,ROMA 2005 RWCH05,DLR,Suborbital,Weather,18 January,Successful
+18 January16:07,Super Loki,,Norway,Andøya,DLR,ROMA 2005 RWCH08,DLR,Suborbital,Weather,18 January,Successful
+18 January17:57,Super Loki,,Norway,Andøya,DLR,ROMA 2005 RWCH11,DLR,Suborbital,Weather,18 January,Successful
+20 January03:00:07,Kosmos-3M,,Russia,Plesetsk Site 132/1,,"Kosmos 2414 (Parus)
+Universitetsky-Tatyana (RS-23)",MGU,"Low Earth
+Low Earth","Navigation
+Technology","In orbit
+In orbit","Operational
+Successful","
+Universitetsky-Tatyana ceased operations at around 21:00 UTC on 6 March 2007
+"
+20 January09:16,Super Loki,,Norway,Andøya,DLR,ROMA 2005 RWCH14,DLR,Suborbital,Weather,18 January,Successful
+1 February,M45,,France,Biscarosse,French Navy,,French Navy,Suborbital,Missile test,1 February,Successful,"
+Apogee: 800 kilometres (500 mi)
+"
+2 February20:57:00,Terrier-Orion,,United States,Barking Sands,NASA,,NAWC,Suborbital,Target,2 February,Successful,"
+Apogee: 130 kilometres (81 mi)
+"
+3 February02:27:32,Proton-M/Briz-M,,Kazakhstan,Baikonur Site 81/24,International Launch Services,AMC-12 (WORLDSAT 2),SES Americom,Geosynchronous,Communication,In orbit,Operational
+3 February07:41,Atlas IIIB,,United States,Cape Canaveral SLC-36B,International Launch Services,"USA-181 (NOSS-3 F3A)
+USA-181 (NOSS-3 F3B)","NRO
+NRO","Low Earth
+Low Earth","ELINT
+ELINT","In orbit
+In orbit","Operational
+Operational","
+NRO Launch 23 ""Canis Minor"", final flight of Atlas IIIB
+"
+12 February21:03:01,Ariane 5ECA,,France,Kourou ELA-3,Arianespace,"XTAR-EUR
+Maqsat-B2
+Sloshsat-FLEVO","XTAR
+Arianespace
+SRON","Geosynchronous
+Geosynchronous transfer
+Geosynchronous transfer","Communication
+Technology
+Microgravity","In orbit
+3 December 2012
+In orbit","Operational
+Successful
+Successful","
+Sloshsat-FLEVO deployed from Maqsat-B2
+"
+14 February06:22,UGM-27 Polaris (STARS),,United States,Kodiak,SMDC,IFT-14 Target,MDA,Suborbital,Target,14 February,Successful,"
+Apogee: 1,000 kilometres (620 mi), interceptor launch cancelled
+"
+24 February21:03,Aries,,United States,Barking Sands,US Navy,FTM-04-1 Target,MDA,Suborbital,Target,24 February,Successful,"
+Apogee: 150 kilometres (93 mi), interceped by SM-3
+"
+24 February21:04,RIM-161 Standard Missile 3,,United States,USS Lake Erie,MDA,FTM-04-1 Interceptor,MDA,Suborbital,Aegis test,24 February,Successful,"
+""Stellar Dragon"", apogee: 150 kilometres (93 mi), interceped Aries
+"
+26 February09:25,H-IIA 2022,,Japan,Tanegashima LA-Y1,JAXA,Himawari 6 (MTSAT 1R),MLIT/JMA,Geosynchronous,ATC/Weather,In orbit,Operational,"
+Maiden flight of H-IIA 2022
+"
+28 February19:09:18,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roskosmos,"Progress M-52
+TNS-0","Roskosmos
+RNII KP","Low Earth (ISS)
+Low Earth","Logistics
+Technology","16 June00:02
+30 August","Successful
+Successful","
+ISS flight 17P, TNS-0 deployed from the International Space Station at 08:30 UTC on 28 March, during an EVA
+"
+1 March03:50:59,Zenit-3SL,,Norway,Ocean Odyssey,Sea Launch,"XM-3 ""Rhythm""",XM,Geosynchronous,Communications,In orbit,Operational
+1 March23:13:00,Terrier-Orion,,United States,Barking Sands,NASA,,NAWC,Suborbital,Target,1 March,Successful,"
+Apogee: 130 kilometres (81 mi)
+"
+2 March04:00:14,UGM-133 Trident II D5,,United States,"USS Tennessee, ETR LP-5",US Navy,,US Navy,Suborbital,Missile test,2 March,Successful,"
+Apogee: 1,000 kilometres (620 mi), FCET-33
+"
+2 March05:09:16,UGM-133 Trident II D5,,United States,"USS Tennessee, ETR LP-5",US Navy,,US Navy,Suborbital,Missile test,2 March,Successful,"
+Apogee: 1,000 kilometres (620 mi), FCET-33
+"
+2 March21:11:00,Terrier-Orion,,United States,Barking Sands,NASA,,NAWC,Suborbital,Target,2 March,Successful,"
+Apogee: 130 kilometres (81 mi)
+"
+2 March22:05:00,Terrier-Oriole,,United States,Barking Sands,NASA,,NAWC,Suborbital,Target,2 March,Successful,"
+Apogee: 300 kilometres (190 mi)
+"
+6 March10:31:17,Black Brant XII,,United States,Poker Flat LC-4,NASA,CASCADES,Dartmouth,Intended: Suborbital,Auroral,6 March,Launch failure,"
+Third stage failed to ignite, apogee: 29 kilometres (18 mi)
+"
+11 March21:42,Atlas V 431,,United States,Cape Canaveral SLC-41,International Launch Services,Inmarsat-4 F1,Inmarsat,Geosynchronous,Communications,In orbit,Operational,"
+Maiden flight of Atlas V 431
+"
+15 March05:45:00,Improved Orion,,United States,Poker Flat LC-3,NASA,DUST,Dartmouth,Suborbital,Micrometeoroids,15 March,Successful,"
+Apogee: 105 kilometres (65 mi)
+"
+15 March07:45:00,Improved Orion,,United States,Poker Flat LC-2,NASA,DUST,Dartmouth,Suborbital,Micrometeoroids,15 March,Successful,"
+Apogee: 105 kilometres (65 mi)
+"
+19 March,Shaheen-II,,Pakistan,Sonmiani,Army of Pakistan,,Army of Pakistan,Suborbital,Missile test,19 March,Successful,"
+Apogee: 300 kilometres (190 mi)
+"
+29 March22:31L00,Proton-K/DM-2M,,Kazakhstan,Baikonur Site 200/39,VKS,Ekspress AM-2,RSCC,Geosynchronous,Communications,In orbit,Operational
+8 April05:56,RH-300 Mk.II,,India,Satish Dhawan,ISRO,,PRL,Suborbital,Aeronomy,8 April,Successful,"
+Apogee: 130 kilometres (81 mi)
+"
+8 April17:30,Castor 4B MRT,,United States,"C-17, Pacific Ocean",Orbital Sciences,,Orbital Sciences,Suborbital,Test flight,8 April,Successful,"
+Apogee: 300 kilometres (190 mi)
+"
+11 April13:35,Minotaur I,,United States,Vandenberg SLC-8,Orbital Sciences,USA-165 (XSS-11),USAFRL,Low Earth,Technology,11 November 2013,Successful
+12 April12:00,Long March 3B,,China,Xichang LA-2,CASC,Apstar VI,APT,Geosynchronous,Communications,In orbit,Operational
+15 April00:46:25,Soyuz-FG,,Kazakhstan,Baikonur Site 1/5,Roskosmos,Soyuz TMA-6,Roskosmos,Low Earth (ISS),Expedition 11,11 October01:09:00,Successful,"
+Crewed orbital flight with 3 cosmonauts
+"
+15 April17:26:50,Pegasus-XL,,United States,"Stargazer, Vandenberg",Orbital Sciences,DART,NASA,Low Earth,Technology,7 May 201608:32,Spacecraft failure,"
+Rendezvous with MUBLCOM communications satellite failed due to navigation malfunction which led to satellites colliding in orbit. Deactivated eleven hours after launch.
+"
+26 April07:31:29,Zenit-3SL,,Norway,Ocean Odyssey,Sea Launch,Spaceway 1,DirecTV,Geosynchronous,Communications,In orbit,Operational
+30 April00:50,Titan IV(405)B,,United States,Cape Canaveral SLC-40,Lockheed Martin,USA-182 (Lacrosse 5),NRO,Low Earth,Radar imaging,In orbit,Operational,"
+NRO Launch 16, final Titan launch from Cape Canaveral
+"
+2 May05:00,Skylark 7,,Sweden,Esrange Skylark Tower,Sounding Rocket Services,Maser-10,ESA,Suborbital,Microgravity,2 May,Successful,"
+Final Skylark launch, apogee: 252 kilometres (157 mi)
+"
+5 May04:45,PSLV,,India,Satish Dhawan SLP,ISRO,"CARTOSAT-1
+HAMSAT (VUSat-Oscar 52)","ISRO
+AMSAT-India","Sun-synchronous
+Sun-synchronous","Remote sensing
+Amateur radio","In orbit
+In orbit","Operational
+Operational"
+5 May09:35:00,Terrier-Orion,,United States,Wallops,NASA,MCAFT-1/IBSi,IBSi,Suborbital,Biological,5 May,Successful,"
+Apogee: 156 kilometres (97 mi)
+"
+20 May10:22:01,Delta II 7320,,United States,Vandenberg SLC-2W,Boeing IDS,NOAA-18 (NOAA-N),NOAA,Sun-synchronous,Weather,In orbit,Operational
+22 May17:59:08,Proton-M/Briz-M,,Kazakhstan,Baikonur Site 200/39,International Launch Services,DirecTV-8,DirecTV,Geosynchronous,Communications,In orbit,Operational
+27 May,R-17 Elbrus (B),,Syria,Minakh,Syrian Army,,Syrian Army,Suborbital,Missile test,27 May,Successful,"
+Apogee: 100 kilometres (62 mi)
+"
+27 May,R-17 Elbrus (D),,Syria,Minakh,Syrian Army,,Syrian Army,Suborbital,Missile test,27 May,Successful,"
+Apogee: 100 kilometres (62 mi)
+"
+27 May,R-17 Elbrus (D),,Syria,Minakh,Syrian Army,,Syrian Army,Suborbital,Missile test,27 May,Launch failure,"
+Disintegrated over Turkey
+"
+31 May12:00,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roskosmos,Foton-M2,Roskosmos/ESA,Low Earth,Microgravity,16 June,Successful,"
+Recovered intact
+"
+12 June,Ju Lang 2,,China,"Submarine, Yellow Sea",PLAN,,PLAN,Suborbital,Missile test,12 June,Successful
+16 June23:09:34,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roskosmos,Progress M-53,Roskosmos,Low Earth (ISS),Logistics,7 September14:12:40,Successful,"
+ISS flight 18P
+"
+21 June00:49:37,Molniya-M/ML,,Russia,Plesetsk Site 16/2,VKS,Molniya-3K #12L,VKS,Intended: Molniya,Communications,+6 minutes,Launch failure,"
+Failed to achieve orbit following third stage malfunction
+"
+21 June19:46:09,Volna,,Russia,"K-496 Borisoglebsk, Barents Sea",VMF,Cosmos 1,Planetary Society,Intended: Low Earth,Technology,21 June,Launch failure,"
+Experimental solar sail, first stage engine failure 83 seconds after launch
+"
+23 June14:03:00,Zenit-3SL,,Norway,Ocean Odyssey,Sea Launch,Intelsat Americas 8 (2005–2007)Galaxy 28 (2007—),Intelsat,Geosynchronous,Communications,In orbit,Operational,"
+Originally ordered as Telstar 8 for Loral Space & Communications, sold to Intelsat before launch
+"
+24 June19:41:00,Proton-K/DM-2,,Kazakhstan,Baikonur Site 200/39,VKS,Ekspress AM-3,RSCC,Geosynchronous,Communications,In orbit,Operational
+28 June22:54,Terrier-ASAS,,United States,Wallops,NASA,,NASA,Suborbital,Test flight,28 June,Successful
+4 July08:41,Improved Orion,,Norway,Andøya,FFI,IMEF,Oslo,Suborbital,Aeronomy/Ionospheric,4 July,Successful,"
+Apogee: 100 kilometres (62 mi)
+"
+5 July22:40,Long March 2D,,China,Jiuquan LA-4/SLS-1,CASC,Shijian 7,CASC,Low Earth,Scientific,In orbit,Operational
+7 July16:20:00,Black Brant IX,,United States,White Sands,NASA,VAULT 3,NRL,Suborbital,Solar,7 July,Successful
+7 July16:20:00,Dong Feng 21,,China,Xichang,PLA,,PLA,Suborbital,ASAT test,7 July,Launch failure,"
+Intercept failed
+"
+10 July03:30,M-V,,Japan,Uchinoura,JAXA,Suzaku (ASTRO-EII),JAXA,Low Earth,X-ray astronomy,In orbit,Operational
+21 July08:01,LGM-30G Minuteman III,,United States,Vandenberg LF-10,US Air Force,SERV-1,US Air Force,Suborbital,Missile test,21 July,Successful
+26 July14:39:00,Space Shuttle Discovery,,United States,Kennedy LC-39B,United Space Alliance,"STS-114
+Raffaello MPLM","NASA
+ASI/NASA","Low Earth (ISS)
+Low Earth (ISS)","ISS assembly
+Logistics","9 August12:11:22
+Successful","
+Crewed orbital flight with seven astronauts, first Return to Flight mission after Columbia accident, Orbiter required repairs whilst in orbit.
+"
+2 August07:30,Long March 2C,,China,Jiuquan,CNSA,FSW-21 (FSW-3 #4),CNSA,Low Earth,Remote sensing,28 August23:38,Successful,"
+Recovered after reentry
+"
+3 August18:45,Black Brant IX,,United States,White Sands,NASA,USC-6,USCLA,Suborbital,Solar,3 August,Successful
+3 August,Castor 4B,,United States,Barking Sands,US Army,CHCM-1,US Army,Suborbital,Test flight,3 August,Successful,"
+Apogee: 400 kilometres (250 mi)
+"
+11 August08:20:44,Ariane 5GS,,France,Kourou ELA-3,Arianespace,Thaicom 4 (iPSTAR),Shin Satellite,Geosynchronous,Communications,In orbit,Operational,"
+Maiden flight of Ariane 5GS
+"
+12 August11:43:00,Atlas V 401,,United States,Cape Canaveral SLC-41,International Launch Services,Mars Reconnaissance Orbiter,NASA,Areocentric,Mars orbiter,In orbit,Operational
+13 August23:28:26,Soyuz-FG/Fregat,,Kazakhstan,Baikonur Site 31/6,Starsem,Galaxy 14,PanAmSat (2005–2006)Intelsat (2006—),Geosynchronous,Communications,In orbit,Operational
+17 August07:06,R-29RMU Sineva,,Russia,"Severodvinsk, Barents Sea",VMF,,VMF,Suborbital,Missile test,17 August,Successful,"
+Apogee: 1,000 kilometres (620 mi)
+"
+18 August,Castor 4B,,United States,Barking Sands,US Army,CHCM-1,US Army,Suborbital,Test flight,18 August,Successful,"
+Apogee: 400 kilometres (250 mi)
+"
+23 August21:09:59,Dnepr,,Kazakhstan,Baikonur Site 109/95,ISC Kosmotras,"Kirari (OICETS)
+Reimei (INDEX)","JAXA
+JAXA","Low Earth
+Low Earth","Technology
+Technology","In orbit
+In orbit","Successful
+Operational","
+Kirari deactivated on 24 September 2009
+"
+26 August08:01,LGM-30G Minuteman III,,United States,Vandenberg LF-26,US Air Force,GT-188GM/SERV-2,US Air Force,Suborbital,Missile test,26 August,Successful,"
+Apogee: 1,300 kilometres (810 mi)
+"
+26 August18:34:28,Rokot/Briz-KM,,Russia,Plesetsk Site 133/3,VKS,Monitor-E,Roskosmos,Low Earth,Environmental,In orbit,Operational,"
+Control issues shortly after launch, resolved within a few months
+"
+29 August18:45,Long March 2D,,China,Jiuquan LA-4,CASC,FSW-22 (FSW-3 #5),CNSA,Low Earth,Reconnaissance,17 October,Successful
+2 September09:50,Soyuz-U,,Kazakhstan,Baikonur Site 31/6,VKS,Kosmos 2415 (Yantar-1KFT/Kometa),VKS,Low Earth,Optical imaging,15 October21:44,Successful,"
+1,700th launch of R-7 derived rocket, film capsule and camera recovered after reentry
+"
+7 September08:53,LGM-30G Minuteman III,,United States,Vandenberg LF-04,US Air Force,GT-187-1GM,US Air Force,Suborbital,Missile test,7 September,Successful,"
+Apogee: 1,300 kilometres (810 mi)
+"
+8 September13:07:54,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roskosmos,"Progress M-54
+RadioSkaf (SuitSat/AO-54)","Roskosmos
+AMSAT","Low Earth (ISS)
+Low Earth","Logistics
+Amateur radio","3 March 200613:05
+7 September 200616:00","Successful
+Partial spacecraft failure","
+ISS flight 19P. RadioSkaf integrated into Orlan-M No. 14 to form SuitSat, which was deployed from the ISS at 23:05 UTC on 3 February 2006, during an EVA. SuitSat transmissions significantly weaker than expected.
+"
+8 September21:53:40,Proton-M/Briz-M,,Kazakhstan,Baikonur Site 200/39,International Launch Services,Anik F1R,Telesat,Geosynchronous,Communications,In orbit,Operational
+14 September08:01,LGM-30G Minuteman III,,United States,Vandenberg LF-09,US Air Force,GT-189GM/ALCS,US Air Force,Suborbital,Missile test,14 September,Successful,"
+Apogee: 1,300 kilometres (810 mi)
+"
+23 September02:24:29,Minotaur I,,United States,Vandenberg SLC-8,Orbital Sciences,USA-185 (STP-R1/Streak),DARPA,Low Earth,Technology,In orbit,Operational
+26 September03:37:00,Delta II 7925-9.5,,United States,Cape Canaveral SLC-17A,Boeing IDS,USA-183 (GPS IIR-14/M1),US Air Force,Medium Earth,Navigation,In orbit,Operational
+26 September,LRALT,,United States,"C-17, Midway",MDA,,MDA,Suborbital,Target,26 September,Successful,"
+Apogee: 300 kilometres (190 mi), test of COBRA DANE radar system
+"
+27 September13:22,RSM-56 Bulava,,Russia,"Dmitri Donskoi, White Sea",VMF,,VMF,Suborbital,Missile test,27 September,Successful,"
+Apogee: 1,000 kilometres (620 mi), maiden flight of Bulava, launched whilst submarine was surfaced
+"
+30 September07:06,R-29R Volna,,Russia,"Svyatoy Georgiy Pobedonosets, Okhotsk",VMF,,VMF,Suborbital,Missile test,30 September,Successful,"
+Apogee: 1,000 kilometres (620 mi)
+"
+1 October03:54:53,Soyuz-FG,,Kazakhstan,Baikonur Site 1/5,Roskosmos,Soyuz TMA-7,Roskosmos,Low Earth (ISS),Expedition 12,8 April 200623:48,Successful,"
+Crewed orbital flight with three cosmonauts
+"
+7 October21:30,Volna,,Russia,"Borisoglebsk, Barents Sea",VMF,IRDT-2R,ESA/NPO Lavochkin,Suborbital,Technology,6 October,Spacecraft failure,"
+Apogee: 200 kilometres (120 mi), recovery failed
+"
+8 October15:02:00,Rokot/Briz-KM,,Russia,Plesetsk Site 133/3,Eurockot,CryoSat,ESA,Intended: Low Earth,Environmental,8 October,Launch failure,"
+Second stage failed to shut down and separate, failed to orbit.
+"
+10 October21:10:08,UGM-133 Trident II D5,,United Kingdom,"HMS Vanguard, ETR",Royal Navy,,Royal Navy,Suborbital,Missile test,10 October,Successful,"
+Apogee: 1,000 kilometres (620 mi), DASO-8
+"
+12 October01:00,Long March 2F,,China,Jiuquan LA-4/SLS-1,CALT,Shenzhou 6,CASC,Low Earth,Technology/Biological,16 October04:32:50,Successful,"
+Carried two crewmembers, first Chinese spaceflight with multiple crew
+"
+13 October22:32:00,Ariane 5GS,,France,Kourou ELA-3,Arianespace,"Syracuse 3A
+Galaxy 15","DGA
+PanAmSat (2005–2006)Intelsat (2006—)","Geosynchronous
+Geosynchronous","Communications
+Communications","In orbit
+In orbit","Operational
+Spacecraft failure"
+19 October18:05,Titan IV(404)B,,United States,Vandenberg SLC-4E,Lockheed Martin,USA-186 (Improved Crystal),NRO,Low Earth,Reconnaissance,In orbit,Operational,"
+NRO Launch 20, Final flight of Titan IVB and the Titan family of rockets.
+"
+20 October07:30,RS-18B UR-100NU,,Kazakhstan,Baikonur Site 175/2,RVSN,,RVSN,Suborbital,Missile test,20 October,Successful,"
+Apogee: 1,000 kilometres (620 mi)
+"
+27 October06:52:26,Kosmos-3M,,Russia,Plesetsk Site 132/1,NPO Polyot,"Beijing-1 (China-DMC+4)
+TopSat
+Sinah-1
+SSETI Express (XO-53)
+CubeSat XI-V (CO-58)
+UWE-1
+nCUBE-2
+Mozhaets-5 (RS-25)
+Rubin-5-ASOLANT","Tsinghua
+MoD
+ISA
+SSETI/ESA
+University of Tokyo
+UWE
+NSSP
+Mozhaiskiy/NPO PM
+OHB System/AATiS","Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth","Optical imaging
+Optical imaging
+Remote sensing
+Technology
+Technology
+Technology
+Amateur radio
+TechnologyAmateur radio
+Technology","In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+Successful","
+Sinah-1 was the first Iranian satellite, SSETI Express lost due to power failure twelve and a half hours after launch as solar arrays were unable to recharge batteries; Mozhaets 5 failed to separate from the carrier rocket, NCUBE-2 failed to contact the ground and Rubin-5 remained intentionally attached to the carrier rocket. UWE-1 operated until 17 November.
+"
+27 October13:45,VS-30/Orion,,Norway,Andøya,DLR,SHEFEX,DLR,Suborbital,Missile test,27 October,Successful,"
+Apogee: 211 kilometres (131 mi)
+"
+1 November17:10,RT-2PM Topol,,Russia,Kapustin Yar,RVSN,IP-10,RVSN,Suborbital,Missile test,1 November,Successful,"
+Apogee: 1,000 kilometres (620 mi)
+"
+2 November22:34,Terrier Mk.70-Oriole,,United States,Barking Sands,NASA,,NAWC,Suborbital,Target,2 November,Successful,"
+Apogee: 300 kilometres (190 mi)
+"
+8 November14:06:59,Zenit-3SL,,Norway,Ocean Odyssey,Sea Launch,Inmarsat-4 F2,Inmarsat,Geosynchronous,Communications,In orbit,Operational
+9 November03:33:34,Soyuz-FG/Fregat,,Kazakhstan,Baikonur Site 31/6,Starsem,Venus Express,ESA,Cytherocentric,Venus orbiter,In orbit,Operational
+14 November20:30,Terrier-Improved Orion,,United States,White Sands,NASA,,NAWC,Suborbital,Target,14 November,Successful,"
+Apogee: 130 kilometres (81 mi)
+"
+16 November23:46:00,Ariane 5ECA,,France,Kourou ELA-3,Arianespace,"Spaceway 2
+IndonesiaTelkom 2","DirecTV
+PT Telkom","Geosynchronous
+Geosynchronous","Communications
+Communications","In orbit
+In orbit","Operational
+Operational"
+18 November18:12,Castor 4B (MRT),,United States,Barking Sands,US Navy,FTM-04-2 Target,US Navy,Suborbital,Target,18 November,Successful,"
+Apogee: 150 kilometres (93 mi), intercepted by SM-3
+"
+18 November18:16,RIM-161 Standard Missile 3,,United States,USS Lake Erie,US Navy,FTM-04-2 Interceptor,US Navy,Suborbital,Aegis test,18 November,Successful,"
+""Stellar Valkyrie"", apogee: 150 kilometres (93 mi), interceped MRT
+"
+18 November20:13,Terrier-Improved Orion,,United States,White Sands,NASA,,NAWC,Suborbital,Target,18 November,Successful,"
+Apogee: 130 kilometres (81 mi)
+"
+22 November,THAAD,,United States,White Sands,Lockheed Martin,FTT-1,Lockheed Martin,Suborbital,Test flight,22 November,Successful,"
+Apogee: 100 kilometres (62 mi)
+"
+29 November07:44,RT-2PM Topol,,Russia,Plesetsk,RVSN,,RVSN,Suborbital,Missile test,29 November,Successful,"
+Apogee: 1,000 kilometres (620 mi)
+"
+9 December19:02:42,UGM-133 Trident II D5,,United States,"Submarine, ETR LP-5",US Navy,,US Navy,Suborbital,Missile test,9 December,Successful,"
+Apogee: 1,000 kilometres (620 mi), FCET-34
+"
+14 December03:04,Orbital Boost Vehicle,,Marshall Islands,Meck,MDA,FT-1,MDA,Suborbital,GBI test,14 December,Successful,"
+Apogee: 1,800 kilometres (1,100 mi)
+"
+20 December19:30,Terrier-Orion,,United States,Wallops,NASA,,NASA,Suborbital,Technology,20 December,Successful,"
+Apogee: 100 kilometres (62 mi)
+"
+21 December05:19,RSM-56 Bulava,,Russia,"Dmitri Donskoi, White Sea",VMF,,VMF,Suborbital,Missile test,21 December,Successful,"
+Apogee: 1,000 kilometres (620 mi), first submerged Bulava launch
+"
+21 December18:38:20,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roskosmos,Progress M-55,Roskomsos,Low Earth (ISS),Logistics,19 June 200617:53,Successful,"
+ISS flight 20P
+"
+21 December19:34:20,Kosmos-3M,,Russia,Plesetsk Site 132/1,VKS,"GonetsM No.1
+Kosmos 2416 (Rodnik)","Gonets Satellite System
+VKS","Low Earth
+Low Earth","Communications
+Communications","In orbit
+In orbit","Operational
+Operational"
+21 December22:33,Ariane 5GS,,France,Kourou ELA-3,Arianespace,"Meteosat-9 (MSG-2)
+INSAT-4A","Eumetsat
+ISRO","Geosynchronous
+Geosynchronous","Weather
+Communications","In orbit
+In orbit","Operational
+Operational"
+25 December05:07:10,Proton-K/DM-2,,Kazakhstan,Baikonur Site 81/24,VKS,"Kosmos 2417 (GLONASS-M)
+Kosmos 2418 (GLONASS-M)
+Kosmos 2419 (GLONASS)","VKS
+VKS
+VKS","Medium Earth
+Medium Earth
+Medium Earth","Navigation
+Navigation
+Navigation","In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational"
+28 December05:19,Soyuz-FG/Fregat,,Kazakhstan,Baikonur Site 31/6,Starsem,GIOVE A,ESA,Medium Earth,NavigationTechnology,In orbit,Operational
+29 December02:28,Proton-M/Briz-M,,Kazakhstan,Baikonur Site 200/39,International Launch Services,AMC-23 (2005–2007)GE-23 (2007—),SES Americom (2005–2007)SAT-GE (2007—),Geosynchronous,Communication,In orbit,Operational,"
+Originally ordered by GE Americom as GE-2i, transferred to SES Americom before launch and renamed AMC-13, then transferred to Worldsat as Worldsat-3 before being transferred back to SES Americom as AMC-23 in early 2005. Transferred to SAT-GE when it split from SES Americom in 2007.
+"
+Unknown,RH-300 Mk.II,,India,Satish Dhawan,ISRO,,ISRO,Suborbital,Test flight,,Successful,"
+Apogee: 130 kilometres (81 mi)
+"
+Unknown,UGM-133 Trident II D5,,United States,"Submarine, WTR",US Navy,,US Navy,Suborbital,Missile test,,Successful,"
+Apogee: 1,000 kilometres (620 mi)
+"

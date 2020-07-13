@@ -1,0 +1,238 @@
+Date and Time,Rocket,Flight Number,Launch Country,Launch Site,LSP,Payload,Operator,Orbit,Function,Decay,Outcome,Remarks
+11 January04:13,Zenit-3SL,,Norway,Ocean Odyssey,Sea Launch,Estrela do Sul 1 (Telstar 14),,Geosynchronous,Communications,In orbit,OperationalPartial spacecraft failure,"
+One of the payload's solar panels did not deploy, and several transponders were disabled. Its replacement, Telstar 14R, launched in 2011, suffered a similar issue.
+"
+29 January11:58,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roskosmos,Progress M1-11,Roskosmos,Low Earth (ISS),Logistics,3 June,Successful,"
+ISS flight 13P
+"
+5 February23:46,Atlas IIAS,,United States,Cape Canaveral SLC-36A,International Launch Services,AMC-10,SES Americom,Geosynchronous,Communications,In orbit,Operational
+14 February18:50,Titan IVB (402)/IUS,,United States,Cape Canaveral SLC-40,Lockheed Martin,DSP-22,US Air Force,Geosynchronous,Missile warning,In orbit,Operational
+18 February07:05,Molniya-M,,Russia,Plesetsk Site 16/2,VKS,Kosmos 2405,,Molniya,Missile warning,In orbit,Operational
+2 March07:17,Ariane 5G+,,France,Kourou ELA-3,Arianespace,"Rosetta
+Philae","ESA
+ESA","Heliocentric
+Heliocentric","Comet probe
+Comet lander","30 September 2016
+9 July 2015","Successful
+Successful","
+Maiden flight of Ariane 5G+Studied the comet 67P/Churyumov-Gerasimenko and asteroids 2867 Šteins and 21 Lutetia
+"
+13 March05:40,Atlas IIIA,,United States,Cape Canaveral SLC-36B,International Launch Services,MBSat,MBSAT,Geosynchronous,Communications,In orbit,Operational,"
+Final flight of Atlas IIIA
+"
+15 March23:06,Proton-M/Briz-M,,Kazakhstan,Baikonur Site 81/24,International Launch Services,Eutelsat W3A,Eutelsat,Geosynchronous,Communications,In orbit,Operational
+20 March17:53,Delta II 7925,,United States,Cape Canaveral SLC-17B,Boeing IDS,GPS IIR-11,US Air Force,Medium Earth,Navigation,In orbit,Operational
+27 March03:30,Proton-K/DM-2,,Kazakhstan,Baikonur Site 81/23,VKS,Kosmos 2406 (Raduga-1),Russian military,Geosynchronous,Communications,In orbit,Operational
+16 April00:45,Atlas IIAS,,United States,Cape Canaveral SLC-36A,International Launch Services,Superbird 6,SCC,Geosynchronous,Communications,In orbit,Operational
+18 April15:59,Long March 2C,,China,Jiuquan,,"Tansuo 1 (Shiyan 1)
+Naxing 1","University of Harbin
+Tsinghua University","Low Earth
+Low Earth","Land resource mapping
+Earth imaging","In orbit
+In orbit","Operational
+Operational"
+19 April03:19,Soyuz-FG,,Kazakhstan,Baikonur Site 1/5,Roskosmos,Soyuz TMA-4,Roskosmos,Low Earth (ISS),ISS Expedition 9,24 October,Successful,"
+Crewed orbital flight with 3 cosmonauts
+"
+20 April16:57,Delta II 7920,,United States,Vandenberg SLC-2W,Boeing IDS,Gravity Probe B,NASA,Low Earth,Test Einstein's Theory of relativity,In orbit,Successful
+26 April20:37,Proton-K/DM-2M,,Kazakhstan,Baikonur Site 200/39,,Ekspress AM11,RSCC,Geosynchronous,Communications,In orbit,Operational
+4 May12:42,Zenit-3SL,,Norway,Ocean Odyssey,Sea Launch,DirecTV-7S,DirecTV,Geosynchronous,Communications,In orbit,Operational
+17 May11:12,GoFast,,United States,"Black Rock Desert, Nevada, USA",CSXT,,CSXT,Suborbital,Test spacecraft,17 May,Successful,"
+First amateur space launch (apogee: 116 km)
+"
+19 May22:22,Atlas IIAS,,United States,Cape Canaveral SLC-36B,International Launch Services,AMC-11,SES Americom,Geosynchronous,Communications,In orbit,Operational
+20 May17:47,Taurus 3120,,United States,Vandenberg LC-576E,Orbital Sciences,FORMOSAT-2 (ROCSAT-2),NSPO,Low Earth,Earth imaging,In orbit,Operational
+25 May12:34,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roskosmos,Progress M-49,Roskosmos,Low Earth (ISS),Logistics,30 July,Successful,"
+ISS flight 14P
+"
+28 May06:00,Tsyklon-2,,Kazakhstan,Baikonur Site 90/20,VKS,Kosmos 2405,VMF,Low Earth,Reconnaissance,In orbit,Operational
+10 June01:28,Zenit-2,,Kazakhstan,Baikonur Site 45/1,VKS,Kosmos 2406,VKS,Low Earth,Signals intelligence,In orbit,Operational
+16 June22:27,Proton-M/Briz-M,,Kazakhstan,Baikonur Site 200/39,International Launch Services,Intelsat 10-02,Intelsat,Geosynchronous,Communications,In orbit,Operational
+21 June14:47,SpaceShipOne,,United States,"White Knight, Mojave Spaceport",Scaled Composites,Flight 15P,Scaled Composites,Suborbital,Test spacecraft,21 June,Successful,"
+Crewed sub-orbital flight with 1 astronaut (Mike Melvill)First privately funded crewed spaceflightMaiden flight of SpaceShipOne as a spacecraft
+"
+23 June22:54,Delta II 7925,,United States,Cape Canaveral SLC-17B,Boeing IDS,GPS IIR-12,US Air Force,Medium Earth,Navigation,In orbit,Operational
+29 June03:59,Zenit-3SL,,Norway,Ocean Odyssey,Sea Launch,Telstar 18,Loral/Apstar,Intended: GeosynchronousAchieved: Medium Earth,Communications,In orbit,Partial launch failure,"
+Premature cutout left payload in useless orbit
+"
+29 June06:30,Dnepr,,Kazakhstan,Baikonur Site 109/95,ISC Kosmotras,"LatinSat D (AprizeSat 2)
+Demeter
+SaudiComsat 1
+SaudiComsat 2
+SaudiSat 2
+LatinSat C (AprizeSat 1)
+Unisat 3
+Amsat Echo","Aprize
+CNES
+RSRI
+RSRI
+RSRI
+Aprize
+Sapienza University of Rome
+AMSAT","Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth","Communications
+Seismology
+Communications
+Communications
+Earth imaging
+Communications
+Technology development
+Communications","In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational
+Operational
+Operational
+Operational
+Operational
+Operational"
+15 July10:02,Delta II 7920-10L,,United States,Vandenberg SLC-2W,Boeing IDS,Aura,NASA,Sun-synchronous (A-train),Atmospheric research,In orbit,Operational
+18 July00:44,Ariane 5G+,,France,Kourou ELA-3,Arianespace,Anik F2,Telesat,Geosynchronous,Communications,In orbit,Operational
+22 July17:46,Kosmos-3M,,Russia,Plesetsk Site 132/1,VKS,Kosmos 2409 (Parus),,Low Earth,Navigation,In orbit,Operational
+25 July07:05,Long March 2C,,China,Taiyuan,,Tan Ce 2,CASC/ESA,High Earth (High-eccentricity),Magnetosphere research,In orbit,Operational
+3 August07:18,Delta II 7925H,,United States,Cape Canaveral SLC-17B,Boeing IDS,MESSENGER,NASA,Mercurian,Mercury probe,30 April 2015,Successful,"
+Became the first spacecraft to orbit Mercury on 4 April 2011
+"
+4 August22:32,Proton-M/Briz-M,,Kazakhstan,Baikonur Site 200/39,International Launch Services,Amazonas,Hispasat,Geosynchronous,Communications,In orbit,Operational
+11 August05:03,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roskosmos,Progress M-50,Roskosmos,Low Earth (ISS),Logistics,22 December,Successful,"
+ISS flight 15P
+"
+29 August07:50,Long March 2C,,China,Jiuquan,,FSW-19 (FSW-2),,Geosynchronous,Earth imaging,7 November23:55,Successful
+31 August23:17,Atlas IIAS,,United States,Cape Canaveral SLC-36A,International Launch Services,SDS-3-4 (USA-179),NRO,Geosynchronous,Classified,In orbit,Operational,"
+Final flight of Atlas IIAS
+"
+6 September10:35,Shavit-1,,Israel,Palmachim,,Ofeq-6,,Intended: Low Earth (retrograde),Reconnaissance,T+270,Launch failure,"
+Loss of control during third stage burn
+"
+8 September23:14,Long March 4B,,China,Taiyuan,,"Shi Jian 6A
+Shi Jian 6B","CASC
+CASC","Low Earth
+Low Earth","Technology demonstration
+Technology demonstration","In orbit
+In orbit","Operational
+Operational"
+20 September10:31,GSLV,,India,Satish Dhawan,ISRO,EDUSAT (GSAT-3),ISRO,Geosynchronous,Communications,In orbit,Operational
+23 September15:07,Kosmos-3M,,Russia,Plesetsk Site 132/1,VKS,"Kosmos 2408
+Kosmos 2409","Russian military
+Russian military","Low Earth
+Low Earth","Communications
+Communications","In orbit
+In orbit","Operational
+Operational"
+24 September16:50,Soyuz-U,,Russia,Plestsk Site 16/2,VKS,Kosmos 2410,Russian military,Low Earth,Reconnaissance,9 January 2005,Failure,"
+Re-entry capsule could not be located
+"
+27 September08:00,Long March 2D,,China,Jiuquan,,FSW-20 (FSW-3),,Low Earth,Earth imaging,In orbit,Operational
+29 September15:12,SpaceShipOne,,United States,"White Knight, Mojave Spaceport",Scaled Composites,Flight 16P,Scaled Composites,Suborbital,Ansari X Prize qualification,29 September,Successful,"
+Crewed sub-orbital flight with 1 astronaut (Mike Melvill)
+"
+4 October14:49,SpaceShipOne,,United States,"White Knight, Mojave Spaceport",Scaled Composites,Flight 17P,Scaled Composites,Suborbital,Ansari X Prize qualification,4 October,Successful,"
+Crewed sub-orbital flight with 1 astronaut (Brian Binnie)Final flight of SpaceShipOne
+"
+14 October03:06,Soyuz-FG,,Kazakhstan,Baikonur Site 1/5,Roskosmos,Soyuz TMA-5,Roskosmos,Low Earth (ISS),ISS Expedition 10,24 April 2005,Successful,"
+Crewed orbital flight with 3 cosmonauts
+"
+14 October21:23,Proton-M/Briz-M,,Kazakhstan,Baikonur Site 200/39,International Launch Services,AMC-15,SES Americom,Geosynchronous,Communications,In orbit,Operational
+19 October01:20,Long March 3A,,China,Xichang,,Feng Yun 2C,,Geosynchronous,Weather satellite,In orbit,Operational
+29 October22:11,Proton-K/DM-2M,,Kazakhstan,Baikonur Site 200/39,,Ekspress AM-1,RSCC,Geosynchronous,Communications,In orbit,Operational
+6 November03:10,Long March 4B,,China,Taiyuan,,Zi Yuan 2C,,Geosynchronous,Earth imaging,In orbit,Operational
+6 November05:39,Delta II 7925,,United States,Cape Canaveral SLC-17B,Boeing IDS,GPS IIR-13,US Air Force,Medium Earth,Navigation,In orbit,Operational
+8 November18:30,Soyuz-2.1a,,Russia,Plesetsk Site 43/4,,Zenit-8 (Obilik),,Suborbital,Test carrier rocket,8 November,Successful,"
+Maiden flight of Soyuz-2.1a
+"
+18 November10:45,Long March 2C,,China,Xichang,,Shiyan Weixing 2,,Low Earth,Earth observation,In orbit,Operational
+20 November17:16,Delta II 7320,,United States,Cape Canaveral SLC-17A,Boeing IDS,Swift,NASA,Low Earth,Gamma-ray research,In orbit,Operational
+14 December,Sounding Rocket IV,,Taiwan,Jiu Peng Air Base,NSPO,,NSPO,Suborbital,Ionospheric research,14 December,Successful,"
+Apogee: ~280 km (174 mi)
+"
+17 December12:07,Atlas V 521,,United States,Cape Canaveral SLC-41,International Launch Services,AMC-16,SES Americom,Geosynchronous,Communications,In orbit,Operational
+18 December16:26,Ariane 5G+,,France,Kourou ELA-3,Arianespace,"Helios 2A
+Nanosat 01
+Essaim 1
+Essaim 2
+Essaim 3
+Essaim 4
+Parasol","DGA
+INTA
+DGA
+DGA
+DGA
+DGA
+CNES","Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth
+Low Earth
+Sun-synchronous (A-train)","Reconnaissance
+Technology demonstration
+ELINT
+ELINT
+ELINT
+ELINT
+Aeronomy","In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational
+Operational
+Operational
+Operational
+Operational","
+Final flight of Ariane 5G+
+"
+21 December21:50,Delta IV Heavy 9250H,,United States,Cape Canaveral SLC-37B,Boeing IDS,"DemoSat (USA-181)
+Sparkie (3CSat1)
+Ralphie (3CSat2)","US Air Force
+US Air Force
+US Air Force","Intended: SubsynchronousActual: Medium Earth
+Low Earth
+Low Earth","Test launch vehicle
+Cloud imaging
+Cloud imaging","In orbit
+22 December
+22 December","Partial launch failure
+Satellite failure
+Satellite failure","
+Maiden flight of Delta IV HeavyPremature cut-off of second stage (burn one) left all payloads in wrong orbits.Both nanosats failed to contact ground after separation
+"
+22 December,R-36,,Russia,Dombarovskiy,RVSN,Dummy warhead,RVSN,Suborbital,Missile test,22 December,Successful
+23 December22:19,Soyuz-U,,Kazakhstan,Baikonur Site 1/5,Roskomsos,Progress M-51,Roskosmos,Low Earth (ISS),Logistics,9 March 2005,Successful,"
+ISS flight 16P
+"
+24 December11:20,Tsyklon-3,,Russia,Plesetsk Site 32/2,VKS,"Sich-1M
+MK-1TS","NKAU
+NKAU","Low Earth
+Low Earth","Earth observation
+Earth observation",In orbit,"
+Both satellites placed into incorrect orbits due to premature third stage cutoff
+"
+26 December13:53,Proton-K/DM-2,,Kazakhstan,Baikonur Site 200/39,VKS,"Kosmos 2411 (GLONASS)
+Kosmos 2412 (GLONASS)
+Kosmos 2413 (GLONASS)","KNITs
+KNITs
+KNITs","Medium Earth
+Medium Earth
+Medium Earth","Navigation
+Navigation
+Navigation","In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational"

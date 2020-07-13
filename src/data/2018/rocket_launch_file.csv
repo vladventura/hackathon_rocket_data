@@ -1,0 +1,511 @@
+Date and Time,Rocket,Flight Number,Launch Country,Launch Site,LSP,Payload,Operator,Orbit,Function,Decay,Outcome,Remarks
+8 January01:00,Falcon 9 Full Thrust,F9-047,United States,Cape Canaveral SLC-40,SpaceX,Zuma / USA-280,Unnamed U.S. government agency,Low Earth,Classified,8 January,"nominal Launch, payload failure","
+After an initial lack of official comment on the mission, a preliminary report concludes that the payload adapter manufactured by Northrop Grumman failed to separate the satellite from the second stage, resulting in its re-entry shortly after launch. SpaceX and the United States Air Force reviewed the Falcon 9 flight data and saw no issues with the launch vehicle itself that would affect future launches.
+"
+9 January03:24,Long March 2D,2D-Y40,China,Taiyuan LC-9,CASC,"SuperView / Gaojing-1 03
+SuperView / Gaojing-1 04","Beijing Space View Technology
+Beijing Space View Technology","Low Earth (SSO)
+Low Earth (SSO)","Earth observation
+Earth observation","In orbit
+In orbit","Operational
+Operational"
+11 January23:18,Long March 3B / YZ-1,3B-Y45,China,Xichang LC-2,CASC,"BeiDou-3 M7
+BeiDou-3 M8","CNSA
+CNSA","Medium Earth
+Medium Earth","Navigation
+Navigation","In orbit
+In orbit","Operational
+Operational"
+12 January03:58,PSLV-XL,C40,India,Satish Dhawan FLP,ISRO,"Cartosat-2F
+MicroSat-TD","ISRO
+ISRO","Low Earth (SSO)
+Low Earth (SSO)","Earth observation
+Technology demonstration","In orbit
+In orbit","Operational
+Operational","
+Deployed 31 satellites.
+"
+12 January22:11,"Delta IV M+(5,2)",D-379,United States,Vandenberg SLC-6,ULA,NROL-47 / Topaz-5 / USA-281,US Air Force,LEO (retrograde),Reconnaissance,In orbit,Operational,"
+Last flight of Delta IV M+(5,2) variant.
+"
+13 January07:20,Long March 2D,2D-Y49,China,Jiuquan SLS-2,CASC,LKW-3,CAS,Low Earth,Earth observation,In orbit,Operational
+17 January21:06:11,Epsilon,,Japan,Uchinoura,JAXA,ASNARO-2,NEC,Low Earth (SSO),Earth observation,In orbit,Operational
+19 January04:12,Long March 11,Y3,China,Jiuquan LA-4/SLS-2,CASC,"Jilin-1 Video-07 (Deqing 1)
+Jilin-1 Video-08 (Linye 2)","Chang Guang Satellite Technology
+Chang Guang Satellite Technology","Low Earth (SSO)
+Low Earth (SSO)","Earth observation
+Earth observation","In orbit
+In orbit","Operational
+Operational","
+100th launch from Jiuquan. Carried and deployed 6 satellites in total.
+"
+20 January00:48,Atlas V 411,AV-076,United States,Cape Canaveral SLC-41,ULA,SBIRS GEO-4 (USA-282),U.S. Air Force,Geosynchronous,Missile warning,In orbit,Operational
+21 January01:30,Electron,"""Still Testing""",New Zealand,Mahia LC-1A,Rocket Lab,Humanity Star,Rocket Lab,Low Earth,Public awareness,22 March 2018,Successful,"
+First successful launch of the Electron rocket.
+"
+25 January05:39,Long March 2C,2C-Y36,China,Xichang LC-3,CASC,"Yaogan 30 K
+Yaogan 30 L
+Yaogan 30 M","CAS
+CAS
+CAS","Low Earth
+Low Earth
+Low Earth","Reconnaissance
+Reconnaissance
+Reconnaissance","In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational",25 January22:20,Ariane 5 ECA,VA241,France,Kourou ELA-3,Arianespace,"SES-14 / GOLD
+Al Yah-3","SES S.A.
+Yahsat","Geosynchronous
+Geosynchronous","Communications
+Communications","In orbit
+In orbit","Partial launch failure / Operational
+Partial launch failure / Operational","
+Due to programming errors in the Guidance, Navigation and Control (GNC) the satellites were placed on an off-nominal orbit. Both payloads are undergoing corrective maneuvers and will be on line in August 2018. These failures have ended the Ariane 5 record series of 82 successful launches in a row from April 2003 to December 2017.
+"
+31 January21:25,Falcon 9 Full Thrust,F9-048,United States,Cape Canaveral SLC-40,SpaceX,SES-16 / GovSat-1,SES S.A.,Geosynchronous,Communications,In orbit,Operational,"
+This flight re-used booster B1032 recovered from the NROL-76 mission in May 2017, and landed the first stage in the ocean with the intent to expend it. The booster unexpectedly remained intact, but was not recovered, and it was subsequently destroyed.
+"
+1 February02:07,Soyuz-2.1a / Fregat-M,,Russia,Vostochny Site 1S,Roscosmos,"Kanopus-V No.3
+Kanopus-V No.4","Roscosmos
+Roscosmos","Low Earth (SSO)
+Low Earth (SSO)","Earth observation
+Earth observation","In orbit
+In orbit","Operational
+Operational",2 February07:50,Long March 2D,2D-Y13,China,Jiuquan SLS-2,CASC,CSES / Zhangheng-1,CNSA / ASI,Low Earth (SSO),Earth observation,In orbit,Operational,3 February05:03,SS-520,,Japan,Uchinoura,JAXA,"
+The smallest rocket to successfully launch a satellite. Re-flight after a launch failure in January 2017
+"
+6 February20:45,Falcon Heavy,FH-001,United States,Kennedy LC-39A,SpaceX,Elon Musk's Tesla Roadster,SpaceX,Heliocentric,Flight test,In orbit,Successful,"
+Maiden test flight of Falcon Heavy re-using two first-stage boosters. The two side boosters successfully touched down at the landing zones in Cape Canaveral, however the middle booster failed to land on the automated drone ship. The test payload was launched in a heliocentric orbit with an aphelion of 1.70 AU, just beyond the orbit of Mars.
+"
+12 February05:10,Long March 3B / YZ-1,3B-Y47,China,Xichang LC-2,CASC,"BeiDou-3 M3
+BeiDou-3 M4","CNSA
+CNSA","Medium Earth
+Medium Earth","Navigation
+Navigation","In orbit
+In orbit","Operational
+Operational"
+13 February08:13,Soyuz-2.1a,,Kazakhstan,Baikonur Site 31/6,Roscosmos,"Progress MS-08 / 69P
+Tanyusha-YuZGU 3, 4","Roscosmos
+South-West State University","Low Earth (ISS)
+Low Earth (ISS)","ISS logistics
+Technology demonstration","30 August
+In orbit","Successful
+Operational","
+Tanyusha-YuZGU satellites were deployed on 15 August 2018 during a spacewalk.
+"
+22 February14:17,Falcon 9 Full Thrust,F9-049,United States,Vandenberg SLC-4E,SpaceX,"Paz
+Tintin A
+Tintin B","Hisdesat
+SpaceX
+SpaceX","Low Earth (SSO)
+Low Earth
+Low Earth","Earth observation
+Technology demonstration
+Technology demonstration","In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational","
+Flew with a re-used first-stage booster that was expended at sea. One half of the payload fairing splashed down in the ocean and was recovered, but it did not land on a ship as attempted. Last flight of Block 3 version rocket.
+"
+27 February04:34:00,H-IIA 202,F38,Japan,Tanegashima LA-Y1,MHI,IGS-Optical 6,CSICE,Low Earth (SSO),Reconnaissance,In orbit,Operational
+1 March22:02:00,Atlas V 541,AV-077,United States,Cape Canaveral SLC-41,ULA,GOES-17 (GOES-S),NESDIS,Geosynchronous,Meteorology,In orbit,Operational
+6 March05:33,Falcon 9 Full Thrust,F9-050,United States,Cape Canaveral SLC-40,SpaceX,Hispasat 30W-6,Hispasat,Geosynchronous,Communications,In orbit,Operational,"
+First-stage booster was expended at sea and was not recovered.
+"
+9 March17:10:06,Soyuz ST-B / Fregat-MT,VS18,France,Kourou ELS,Arianespace,O3b × 4,SES S.A.,Medium Earth,Communications,In orbit,Operational
+17 March07:10,Long March 2D,2D-Y50,China,Jiuquan SLS-2,CASC,LKW-4,CAS,Low Earth,Earth observation,In orbit,Operational
+21 March17:44:23,Soyuz-FG,,Kazakhstan,Baikonur Site 1/5,Roscosmos,Soyuz MS-08 / 54S,Roscosmos,Low Earth (ISS),Expedition 55/56,4 October 201811:45,Successful,"
+Crewed flight with three cosmonauts
+"
+29 March11:26,GSLV Mk II,F08,India,Satish Dhawan SLP,ISRO,GSAT-6A,ISRO,Geosynchronous,Communications,In orbit,Spacecraft failure
+29 March16:45,Soyuz-2-1v,,Russia,Plesetsk,Roscosmos,EMKA / Kosmos 2525,Roscosmos,Low Earth (SSO),Earth observation (military),In orbit,Operational
+29 March17:50,Long March 3B / YZ-1,3B-Y48,China,Xichang LC-2,CASC,"BeiDou-3 M9
+BeiDou-3 M10","CNSA
+CNSA","Medium Earth
+Medium Earth","Navigation
+Navigation","In orbit
+In orbit","Operational
+Operational"
+30 March14:14,Falcon 9 Full Thrust,F9-051,United States,Vandenberg SLC-4E,SpaceX,Iridium NEXT 41–50,Iridium,Low Earth,Communications,In orbit,Operational,"
+Re-used first-stage booster B1041. First stage was not recovered, did a simulated landing test at sea. Fairing recovery attempt failed due to parafoil issues.
+"
+31 March03:22,Long March 4C,4C-Y26,China,Taiyuan LC-9,CASC,"Gaofen-1 02
+Gaofen-1 03
+Gaofen-1 04","CNSA
+CNSA
+CNSA","SSO
+SSO
+SSO","Earth observation
+Earth observation
+Earth observation","In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational"
+2 April20:30,Falcon 9 Full Thrust,F9-052,United States,Cape Canaveral SLC-40,SpaceX,"SpaceX CRS-14
+RemoveDEBRIS","NASA
+University of Surrey","Low Earth (ISS)
+Low Earth (ISS)","ISS logistics
+Technology demonstration","5 May 2018
+In orbit","Successful
+Operational","
+Re-used first-stage booster B1039, used to launch CRS-12 in 2017; and the Dragon capsule from CRS-8 in 2016. First stage was not recovered. Ubakusat, 1KUNS-PF, and Proyecto Irazú were deployed from the ISS on 11 May 2018. RemoveDEBRIS was deployed into orbit on 20 June 2018.
+"
+5 April21:34,Ariane 5 ECA,VA242,France,Kourou ELA-3,Arianespace,"Superbird-B3 / DSN-1
+HYLAS-4","JSAT / DSN / JSDF
+Avanti","Geosynchronous
+Geosynchronous","Communications
+Communications","In orbit
+In orbit","Operational
+Operational","
+First flight of Ariane 5 since off-target launch of VA241 in January 2018.
+"
+10 April04:25,Long March 4C,4C-Y25,China,Jiuquan SLS-2,CASC,"Yaogan 31 A
+Yaogan 31 B
+Yaogan 31 C","CAS
+CAS
+CAS","Low Earth
+Low Earth
+Low Earth","Reconnaissance
+Reconnaissance
+Reconnaissance","In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational",11 April22:34,PSLV-XL,C41,India,Satish Dhawan FLP,ISRO,IRNSS-1I,ISRO,Geosynchronous,Satellite navigation (IRNSS),In orbit,Operational
+14 April23:13,Atlas V 551,AV-079,United States,Cape Canaveral SLC-41,ULA,"AFSPC-11 / CBAS (USA-283)
+EAGLE (USA-284 + USA-285/286/287)","U.S. Air Force
+Air Force Research Laboratory","Geosynchronous
+Geosynchronous","Communications (military)
+Technology experiments (Space Test Program)","In orbit
+In orbit","Operational
+Operational"
+18 April22:12,Proton-M / Briz-M,?,Kazakhstan,Baikonur,RVSN RF,Blagovest-12L / Kosmos 2526,VKS,Geosynchronous,Communications (military),In orbit,Operational
+18 April22:51,Falcon 9 Full Thrust,F9-053,United States,Cape Canaveral SLC-40,SpaceX,TESS,NASA,HEO,Space observatory,In orbit,Operational,"
+Block 4 first-stage booster, serial number B1045.
+"
+25 April17:57,Rokot / Briz-KM,,Russia,Plesetsk Site 133/3,/ Eurockot,Sentinel-3B,ESA,Low Earth (SSO),Earth observation,In orbit,Operational
+26 April04:42,Long March 11,Y4,China,Jiuquan LA-4/SLS-2,CASC,"Zhuhai-1 OHS 2A–2D
+Zhuhai-1 OVS 2A","Zhuhai Orbita Control Engineering
+Zhuhai Orbita Control Engineering","Low Earth (SSO)
+Low Earth (SSO)","Earth observation
+Earth observation","In orbit
+In orbit","Operational
+Operational"
+3 May16:05,Long March 3B/G2,3B-Y55,China,Xichang LC-2,CASC,Apstar 6C,APT Satellite Holdings,Geosynchronous,Communications,In orbit,Operational
+5 May11:05,Atlas V 401,AV-078,United States,Vandenberg SLC-3E,ULA,InSight,NASA / JPL,TMI to Martian Surface,Mars lander,26 November  19:52:59,Successful,"
+12th mission of the Discovery program. Mars lander mission dedicated to geological and seismological studies of the planet.
+"
+8 May18:28,Long March 4C,4C-Y20,China,Taiyuan LC-9,CASC,Gaofen 5,CAST,Low Earth (SSO),Earth observation,In orbit,Operational
+11 May20:14,Falcon 9 Block 5,F9-054,United States,Kennedy LC-39A,SpaceX,Bangabandhu-1,BTRC,Geosynchronous,Communications,In orbit,Operational,"
+First launch of a Falcon 9 Block 5 first-stage booster, serial number B1046. The booster was recovered.
+"
+20 May21:28,Long March 4C,4C-Y27,China,Xichang LC-3,CASC,"Queqiao
+Longjiang-1
+Longjiang-2","CNSA
+CNSA
+CNSA","Earth–Moon L2, halo orbit
+Selenocentric, elliptical orbit
+Selenocentric, elliptical orbit","Communications
+Radio astronomy
+Radio astronomy","In orbit
+In orbit
+31 July 201914:20","Operational
+Spacecraft Failure
+Successful","
+The relay satellite Queqiao, or ""Magpie Bridge"" will stay in a halo orbit around the second Earth-Moon Lagrange point (E-M L2) and support communications from the Chang'e 4 rover exploring the far side of the Moon.
+"
+21 May08:44,Antares 230,,United States,MARS LP-0A,Orbital ATK,Cygnus CRS OA-9ES.S. J.R. Thompson,NASA,Low Earth (ISS),ISS logistics,15 July 2017,Successful,"
+RainCube, Radix, CubeRRT, HaloSat, TEMPEST-D, EnduroSat One, EQUISat, MEMSat, RadSat-g are carried aboard Cygnus to be deployed from ISS later.  CubeRRT, EQUISat, HaloSat, MemSat, RadSat-g, RainCube, TEMPEST-D, EnduroSat One, Radix were deployed on 13 July 2018.  Four Lemur-2s and two Aerocubes were carried in the external deployer of Cygnus and deployed into orbit on 16 July 2018 after it departed from ISS.
+"
+22 May19:47:58,Falcon 9 Full Thrust,F9-055,United States,Vandenberg SLC-4E,SpaceX,"Iridium NEXT 51–55
+GRACE-FO 1, 2","Iridium
+DLR","Low Earth
+Low Earth","Communications
+Gravitational science","In orbit
+In orbit","Operational
+Operational","
+DLR arranged a rideshare of GRACE-FO on a Falcon 9 with Iridium following the cancellation of their Dnepr launch contract in 2015. Iridium CEO Matt Desch disclosed in September 2017 that GRACE-FO would be launched on the sixth Iridium NEXT mission. Re-used a first-stage booster.
+"
+2 June04:13,Long March 2D,2D-Y20,China,Jiuquan SLS-2,CASC,Gaofen 6,CAST,Low Earth (SSO),Earth observation,In orbit,Operational,4 June04:45,Falcon 9 Full Thrust,F9-056,United States,Cape Canaveral SLC-40,SpaceX,SES-12,SES S.A.,Geosynchronous,Communications,In orbit,Operational
+5 June13:07,Long March 3A,3A-Y25,China,Xichang LC-2,CAST,Fengyun 2H,CMA,Geosynchronous,Meteorology,In orbit,Operational
+6 June11:12:41,Soyuz-FG,,Kazakhstan,Baikonur Site 1/5,Roscosmos,"Soyuz MS-09 / 55S
+SiriusSat 1, 2","Roscosmos
+SPUTNIX","Low Earth (ISS)
+Low Earth (ISS)","Expedition 56/57
+Space research, Education","20 December 201801:42
+In orbit","Successful
+Operational","
+Crewed flight with three cosmonauts. SiriusSat satellites were deployed on 15 August 2018 during a spacewalk. Crew return was delayed due to the launch failure of Soyuz MS-10; it was rescheduled for 20 December, after the MS-11 crew arrives on 3 December.
+"
+12 June04:20,H-IIA 202,F39,Japan,Tanegashima,MHI,IGS Radar-6,CSICE,Low Earth (SSO),Reconnaissance,In orbit,Operational
+16 June21:30,Soyuz-2.1b / Fregat-M,,Russia,Plesetsk Site 43/4,RVSN RF,GLONASS-M 756 / Kosmos 2527,VKS,Medium Earth,Navigation,In orbit,Operational
+27 June03:30,Long March 2C,2C-Yxx,China,Xichang LC-3,CASC,"XJSS A
+XJSS B","CAST
+CAST","Low Earth
+Low Earth","Technology demonstration
+Technology demonstration","In orbit
+In orbit","Operational
+Operational"
+29 June09:42,Falcon 9 Full Thrust,F9-057,United States,Cape Canaveral SLC-40,SpaceX,SpaceX CRS-15,NASA,Low Earth (ISS),ISS logistics,3 August 2018,Successful,"
+Last orbital flight of a Block 4 booster version.  Bhutan-1, Maya-1, UiTMSAT-1 were deployed into orbit from ISS on 10 August 2018.
+"
+9 July03:56,Long March 2C / SMA,2CSMA-Y3,China,Jiuquan LC-43/94,CASC,"PRSS-1
+PakTES-1A","SUPARCO
+SUPARCO","Low Earth (SSO)
+Low Earth (SSO)","Earth observation
+Earth observation","In orbit
+In orbit","Operational
+Operational"
+9 July20:58,Long March 3A,3A-Y27,China,Xichang LA-2,CASC,BeiDou IGSO-7,CNSA,IGSO,Navigation,In orbit,Operational
+9 July21:51:34,Soyuz-2.1a,,Kazakhstan,Baikonur,Roscosmos,Progress MS-09 / 70P,Roscosmos,Low Earth (ISS),ISS logistics,25 January 2019,Successful,"
+Fastest rendezvous with the ISS, with a new two-orbit procedure taking less than four hours.
+"
+22 July05:50,Falcon 9 Block 5,F9-058,United States,Cape Canaveral SLC-40,SpaceX,Telstar 19V,Telesat,Geosynchronous,Communications,In orbit,Operational
+25 July11:25:01,Ariane 5 ES,VA244,France,Kourou ELA-3,Arianespace,"Galileo FOC 19, 20, 21, 22",ESA,Medium Earth,Navigation,In orbit,Operational,"
+Third Galileo launch with Ariane 5 (10th overall), carrying Tara, Samuel, Anna, and Ellen. Last flight of Ariane 5 ES variant; further Galileo launches will be carried by Ariane 6.
+"
+25 July11:39:26,Falcon 9 Block 5,F9-059,United States,Vandenberg SLC-4E,SpaceX,Iridium NEXT 56-65,Iridium,Low Earth,Communications,In orbit,Operational
+29 July01:48,Long March 3B / YZ-1,3B-Y49,China,Xichang,CASC,"BeiDou-3 M5
+BeiDou-3 M6","CNSA
+CNSA","Medium Earth
+Medium Earth","Navigation
+Navigation","In orbit
+In orbit","Operational
+Operational"
+31 July03:00,Long March 4B,4B-Y37,China,Taiyuan LC-9,CASC,Gaofen 11,CAST,Low Earth (SSO),Earth observation,In orbit,Operational
+7 August05:18,Falcon 9 Block 5,F9-060,United States,Cape Canaveral SLC-40,SpaceX,Telkom 4 / Merah Putih,Telkom Indonesia,Geosynchronous,Communications,In orbit,Operational
+12 August07:31,Delta IV Heavy,D-380,United States,Cape Canaveral SLC-37B,ULA,Parker Solar Probe,NASA,Heliocentric,Heliophysics,In orbit,Operational,"
+Heliophysics observation mission planned to make in situ studies of the Sun's outer corona at a perihelion distance of 8.5 solar radii (5.9 million kilometers) – the closest any spacecraft will come to the Sun to date.
+"
+22 August21:20:09,Vega,VV12,France,Kourou ELV,Arianespace,ADM-Aeolus,ESA,Low Earth (SSO),Earth observation,In orbit,Operational
+24 August23:52,Long March 3B / YZ-1,3B-Y50,China,Xichang,CASC,"BeiDou-3 M11
+BeiDou-3 M12","CNSA
+CNSA","Medium Earth
+Medium Earth","Navigation
+Navigation","In orbit
+In orbit","Operational
+Operational"
+7 September03:15,Long March 2C,2C-Y48,China,Taiyuan LC-9,CAST,HaiYang 1C,CAST,Low Earth,Earth observation,In orbit,Operational
+10 September04:45,Falcon 9 Block 5,F9-061,United States,Cape Canaveral SLC-40,SpaceX,Telstar 18V,Telesat,Geosynchronous,Communications,In orbit,Operational
+15 September13:02,Delta II 7420,D-381,United States,Vandenberg SLC-2W,ULA,ICESat-2,NASA,Low Earth,Earth observation,In orbit,Operational,"
+Last flight of the Delta II series; final flight of the Thor rocket family.
+"
+16 September16:37,PSLV-CA,C42,India,Satish Dhawan FLP,ISRO,"SSTL S1-4
+NovaSAR-S","SSTL
+SSTL / British Government","Low Earth
+Low Earth","Earth observation
+Earth observation","In orbit
+In orbit","Operational
+Operational"
+19 September14:07,Long March 3B / YZ-1,3B-Y51,China,Xichang LC-3,CASC,"BeiDou-3 M13
+BeiDou-3 M14","CNSA
+CNSA","Medium Earth
+Medium Earth","Navigation
+Navigation","In orbit
+In orbit","Operational
+Operational"
+22 September17:52:27,H-IIB,F7,Japan,Tanegashima LA-Y2,MHI,HTV-7,JAXA,Low Earth (ISS),ISS logistics,10 November 2018,Successful,"
+SPATIUM-1, RSP-00, and STARS-Me are carried by HTV-7 to be deployed into orbit from the International Space Station.  They were deployed into orbit on 6 October 2018.
+"
+25 September22:38,Ariane 5 ECA,VA243,France,Kourou ELA-3,Arianespace,"Azerspace-2 /  Intelsat 38
+/  Horizons-3e","Azercosmos / Intelsat
+Intelsat / JSAT","Geosynchronous
+Geosynchronous","Communications
+Communications","In orbit
+In orbit","Operational
+Operational","
+Hundredth Ariane 5 mission. Flight VA243 was delayed from 25 May due to issues with GSAT-11.
+"
+29 September04:13,Kuaizhou 1A,F2,China,Jiuquan SLS-E2,CASIC,Centispace-1-S1,Beijing Future Navigation Technology,Low Earth (SSO),Navigation,In orbit,Operational
+8 October02:21,Falcon 9 Block 5,F9-062,United States,Vandenberg SLC-4E,SpaceX,SAOCOM 1A,CONAE,Low Earth (SSO),Earth observation,In orbit,Operational,"
+First RTLS at Vandenberg
+"
+9 October02:43,Long March 2C / YZ-1S,2C-Y38,China,Jiuquan SLS-2,CASC,"Yaogan 32 A
+Yaogan 32 B","CAS
+CAS","Low Earth
+Low Earth","Reconnaissance
+Reconnaissance","In orbit
+In orbit","Operational
+Operational","
+First flight of the Yuanzheng-1S upper stage variant
+"
+11 October08:40,Soyuz-FG,,Kazakhstan,Baikonur Site 1/5,Roscosmos,Soyuz MS-10 / 56S,Roscosmos,Low Earth (ISS),Expedition 57/58,11 October 2018,Launch failure,"
+Crewed flight with two cosmonauts. Launch failure, astronauts landed safely in Soyuz capsule.
+"
+15 October04:23,Long March 3B / YZ-1,3B-Y52,China,Xichang,CASC,"BeiDou-3 M15
+BeiDou-3 M16","CNSA
+CNSA","Medium Earth
+Medium Earth","Navigation
+Navigation","In orbit
+In orbit","Operational
+Operational"
+17 October04:15,Atlas V 551,AV-073,United States,Cape Canaveral SLC-41,ULA,AEHF-4 (USA-288),U.S. Air Force,Geosynchronous,Communications (military),In orbit,Operational
+20 October01:45,Ariane 5 ECA,VA245,France,Kourou ELA-3,Arianespace,BepiColombo,ESA / JAXA,Mercurian orbit,Mercury probes,In orbit,En route,"
+Third and final cornerstone mission of the Horizon 2000+ programme. Joint ESA / JAXA Mercury mission consisting of two orbiters, the ESA Mercury Planetary Orbiter and the JAXA Mio (Mercury Magnetospheric Orbiter)
+"
+24 October22:57,Long March 4B,4B-Y34,China,Taiyuan LC-9,CAST,HaiYang 2B,CAST,Low Earth,Earth observation,In orbit,Operational
+25 October00:15,Soyuz-2.1b,,Russia,Plesetsk Site 43/4,RVSN RF,Lotos-S1 №3 / Kosmos 2528,VKS,Low Earth,ELINT,In orbit,Operational
+27 October08:00,Zhuque-1,,China,Jiuquan (mobile launcher),LandSpace,"
+Maiden flight of the Zhuque-1 solid-propellant rocket
+"
+29 October00:43,Long March 2C,2C-Y22,China,Jiuquan SLS-2,CASC,/  CFOSAT,CNSA / CNES,Low Earth (SSO),Earth observation,In orbit,Operational,29 October04:08,H-IIA 202,F40,Japan,Tanegashima LA-Y1,MHI,"GOSAT-2 (Ibuki 2)
+KhalifaSat","JAXA
+EIAST","Low Earth (SSO)
+Low Earth (SSO)","Earth observation
+Earth observation","In orbit
+In orbit","Operational
+Operational",/  Diwata-2b,DOST / TU,Low Earth,Earth observation,In orbit,Operational,Ten-Koh,Kyushu Institute of Technology,Low Earth,Magnetosphere observation / Technology demonstration,In orbit,Operational
+1 November15:57,Long March 3B/E,3B-Y41,China,Xichang,CASC,BeiDou-3 G1Q,CNSA,Geosynchronous,Navigation,In orbit,Operational
+3 November20:17,Soyuz-2.1b / Fregat-M,,Russia,Plesetsk Site 43/4,RVSN RF,GLONASS-M 757 / Kosmos 2529,VKS,Medium Earth,Navigation,In orbit,Operational
+7 November00:47:27,Soyuz ST-B / Fregat-M,VS19,France,Kourou ELS,Arianespace,MetOp-C,Eumetsat,Low Earth (SSO),Meteorology,In orbit,Operational
+11 November03:50,Electron,"""It's Business Time""",New Zealand,Mahia LC-1A,Rocket Lab,14 November11:38,GSLV Mk III,D2,India,Satish Dhawan SLP,ISRO,GSAT-29,ISRO,Geosynchronous,Communications,In orbit,Operational,"
+Second orbital flight of GSLV Mk III
+"
+15 November20:46,Falcon 9 Block 5,F9-063,United States,Kennedy LC-39A,SpaceX,Es'hail 2,Es'hailSat,Geosynchronous,Communications,In orbit,Operational
+16 November18:14:08,Soyuz-FG,,Kazakhstan,Baikonur,Roscosmos,Progress MS-10 / 71P,Roscosmos,Low Earth (ISS),ISS logistics,4 June 2019,Successful,"
+Return to flight of the Soyuz-FG variant involved in the Soyuz MS-10 launch failure.
+"
+17 November09:01:22,Antares 230,,United States,MARS LP-0A,Northrop Grumman,Cygnus NG-10  SS John Young,NASA,Low Earth (ISS),ISS logistics,25 February 2019,Successful,"
+Largest amount of satellites launched on a single rocket (108). Cygnus NG-10, CHEFsat 2, Kicksat 2, 104 Sprite Chipsats (deployed from Kicksat 2), MYSAT 1. CubeSats were carried aboard Cygnus and deployed into orbit after the departure of Cygnus from ISS.  KickSat-2 carries 104 Sprite ""ChipSats"" to deploy into orbit.
+"
+18 November18:00,Long March 3B / YZ-1,3B-Yxx,China,Xichang,CASC,"BeiDou-3 M17
+BeiDou-3 M18","CNSA
+CNSA","Medium Earth
+Medium Earth","Navigation
+Navigation","In orbit
+In orbit","Operational
+Operational"
+19 November23:40,Long March 2D,2D-Y28,China,Jiuquan SLS-2 (LC34),CASC,"Jiading-1 (OKW-1)
+Tianzhi-1","Shanghai OK Space
+Chinese Academy of Sciences","Low Earth (SSO)
+Low Earth","Communications
+Technology demonstration","In orbit
+In orbit","Operational
+Operational","
+As of 19 November 2018, several other payloads were not yet identified.
+"
+21 November01:42:31,Vega,VV13,France,Kourou ELV,Arianespace,Mohammed VI-B,Morocco,Low Earth,Earth observation,In orbit,Operational
+29 November04:27:30,PSLV-CA,C43,India,Satish Dhawan FLP,ISRO,"HySIS
+BlackSky Global 1","ISRO
+Spaceflight Industries","Low Earth
+Low Earth","Earth observation
+Earth observation","In orbit
+In orbit","Operational
+Operational",30 November02:27,Rokot / Briz-KM,,Russia,Plesetsk Site 133/3,RVSN RF,Strela-3M 16–18 / Kosmos 2530–2532,VKS,Low Earth,Communications (military),In orbit,Operational
+3 December11:31,Soyuz-FG,,Kazakhstan,Baikonur Site 1/5,Roscosmos,Soyuz MS-11 / 57S,Roscosmos,Low Earth (ISS),Expedition 58/59,25 June 201902:47,Successful,"
+Crewed flight with three cosmonauts
+"
+3 December18:34,Falcon 9 Block 5,F9-064,United States,Vandenberg SLC-4E,SpaceX,SSO-A / SHERPA  65 small satellites,Spaceflight Industries,Low Earth (SSO),Satellite dispenser,In orbit,Successful,BlackSky Global 2,Spaceflight Industries,Low Earth (SSO),Earth observation,,,"Eu:CROPIS
+eXCITe + SeeMe constellation","DLR
+DARPA","Low Earth (SSO)
+Low Earth (SSO)","Life sciences
+Technology demonstration (satlets)",,,FalconSat 6,U.S. Air Force Academy,Low Earth (SSO),Technology demonstration,,,"SkySat 14, 15",Planet Labs,Low Earth (SSO),Earth observation,,,STPSat 5,USAF STP,Low Earth (SSO),Technology demonstration,,,"
+The SSO-A ""dedicated rideshare"" mission delivered 64 small payloads with custom-made dispensers.
+"
+4 December20:37,Ariane 5 ECA,VA246,France,Kourou ELA-3,Arianespace,"GSAT-11
+GEO-KOMPSAT-2A","ISRO
+KARI","Geosynchronous
+Geosynchronous","Communications
+Meteorology","In orbit
+In orbit","Operational
+Operational"
+5 December18:16,Falcon 9 Block 5,F9-065,United States,Cape Canaveral SLC-40,SpaceX,"SpaceX CRS-16
+Delphini 1
+TechEdSat 8
+CAT 1, 2
+UNITE","NASA
+AU
+SJSU, UIdaho, NASA
+APL
+USI","Low Earth (ISS)
+Low Earth
+Low Earth
+Low Earth
+Low Earth","ISS logistics
+Technology demonstration
+Technology demonstration
+Technology demonstration
+Ionospheric Science","14 January 2019
+In orbit
+In orbit
+In orbit
+In orbit","Successful
+Operational
+Operational
+Operational
+Operational","
+First stage tumbled during descent, and did not make it to Landing Zone 1. It achieved a water landing in the Atlantic Ocean. CubeSat payloads were carried in the CRS-16, and deployed into orbit from the ISS on 31 January 2019.
+"
+7 December04:12,Long March 2D,2D-Y38,China,Jiuquan SLS-2 (LC-34/pad 94),CASC,"SaudiSat 5A
+SaudiSat 5B
+TY/DF-1
+TFSTAR (Douyu-666)
+Xinjiang Jiaotong 01 (TY3-01)
+Piao Chong (Ladybeetle) 1-7","KACST
+KACST
+CAST
+CAST
+CAST
+CAST","Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)","Earth observation
+Earth observation
+Technology demonstration
+Communications
+Communications
+Communications, IoT","In orbit
+In orbit
+In orbit
+In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational
+Operational
+Operational
+Operational"
+7 December18:24,Long March 3B/E,3B-Y30,China,Xichang LC-2,CASC,Chang'e 4,CNSA,Selenocentric,Lunar lander,In orbit,Operational,"
+China's second lunar lander (back-up to Chang'e 3), and the first spacecraft to attempt a soft landing on the far side of the Moon.
+"
+16 December06:33,Electron,"""This One's For Pickering""",New Zealand,Mahia LC-1A,Rocket Lab,"
+Launch for NASA's Venture Class Launch Services program (VCLS-1), including ELaNa payloads.
+"
+19 December10:40,GSLV Mk II,F11,India,Satish Dhawan SLP,ISRO,GSAT-7A,Indian Air Force,Geosynchronous,Communications (military),In orbit,Operational
+19 December16:37:14,Soyuz ST-A / Fregat-M,VS20,France,Kourou ELS,Arianespace,CSO 1,French Armed Forces,Low Earth (SSO),Reconnaissance,In orbit,Operational
+21 December00:20,Proton-M / Briz-M,,Kazakhstan,Baikonur,RVSN RF,Blagovest-13L / Kosmos 2533,VKS,Geosynchronous,Communications (military),In orbit,Operational
+21 December23:51,Long March 11,Y5,China,Jiuquan,CASC,Hongyun 1,CASIC,Low Earth (SSO),Communications (test),In orbit,Operational,"
+First test flight for the planned Hongyun constellation of 156 broadband communications satellites.
+"
+23 December13:51,Falcon 9 Block 5,F9-066,United States,Cape Canaveral SLC-40,SpaceX,GPS IIIA-01 (USA-289),U.S. Air Force,Medium Earth,Navigation,In orbit,Operational
+24 December16:53,Long March 3C,3C-Y17,China,Xichang LC-2,CASC,TJSW-3,CNSA,Geosynchronous,Communications test (probably ELINT),In orbit,Operational
+27 December02:07,Soyuz-2.1a / Fregat-M,,Russia,Vostochny Site 1S,Roscosmos,"Kanopus-V No.5
+Kanopus-V No.6
+GRUS-1","Roscosmos
+Roscosmos
+Axelspace","Low Earth (SSO)
+Low Earth (SSO)
+Low Earth (SSO)","Earth observation
+Earth observation
+Earth observation","In orbit
+In orbit
+In orbit","Operational
+Operational
+Operational","
+Three Israeli payloads, SAMSON-1,2,3, were planned but they missed the deadline and were replaced with mass simulator payloads.
+"
+29 December08:00,Long March 2D / YZ-3,2D-Y35,China,Jiuquan SLS-2,CASC,"Hongyan 1
+Yunhai-2 01-06","CAST
+CAST","Low Earth
+Low Earth","Communications
+Meteorology","In orbit
+In orbit","Operational
+Operational","
+First test flight for the planned Hongyan constellation of 320 M2M communications satellites.
+"
