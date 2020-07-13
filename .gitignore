@@ -7,3 +7,7 @@ bin/
 
 # Packages
 lib/
+
+# Generated content
+**/data
+**/__pycache__

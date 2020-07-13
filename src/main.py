@@ -19,6 +19,9 @@ Examples:
         This will only scrape 2010
 """)
 
+def check_year_is_valid(year):
+    return 1944 <= year <= 2024
+
 def scrape_year(y):
     scraper = rts(year=y)
     scraper.load()
@@ -52,7 +55,7 @@ def main(argv):
             if is_integer(arg) and is_integer(args[0]):
                 base = abs(int(args[0]))
                 if int(arg) != 0: years = abs(int(arg)) + 1
-                if 1944 <= (years + base) <= 2024:
+                if check_year_is_valid(years + base):
                     print('Scrapping process began')
 
                     if years:
@@ -68,6 +71,18 @@ def main(argv):
             else:
                 sys.exit('Only integers allowed')
     
+    if args.__len__():
+        if is_integer(args[0]): 
+            if check_year_is_valid(int(args[0])):
+                scrape_year(args[0])
+                print('Process finished')
+                sys.exit(0)
+            else:
+                sys.exit('Given your numbers, the last year would either exceed 2024 or be too small to operate on')
+        else:
+            sys.exit('Only integers allowed')
+
+
     sys.exit(help)
 
 
