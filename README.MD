@@ -2,7 +2,10 @@
 ---
 A tool specifically made to scrape data from the rocket launch data wiki pages, so we can create models out of them.
 It is written in Python, and it uses requests and BeautifulSoup to do the fetching of the webpage.
-In the instance that more than
+
+- [Setup](#setup)
+- [Starting the App](#starting-the-app)
+- [Known Issues](#known-issues)
 
 #Setup
 ---
