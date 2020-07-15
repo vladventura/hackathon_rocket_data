@@ -111,25 +111,21 @@ class RocketTableScraper:
                                             self.data_list.append(title)
                                             self.country_inserted = True
                                 if not td.find("li"):
-                                    if not "Upcoming launches" in td.get_text():
-                                        self.data_list.append(
-                                            " ".join(td.get_text().split()))
-                                    else:
-                                        continue
-
+                                    self.data_list.append(
+                                        " ".join(td.get_text().split()))
                         elif "e8eeee" or "" in tr["style"]:
                             temp_list = []
                             for td in tr.findAll("td"):
                                 temp_list.append(
                                     "\n".join(td.get_text().strip().split("\n")))
-
+                            
                             if self.extra_list.__len__() > 0 and temp_list.__len__() > 0:
-                                self.extra_list = [
-                                    "\n".join([a, b]).strip()
-                                    for a, b in zip(self.extra_list, temp_list)
-                                ]
+                                    self.extra_list = [
+                                        "\n".join([a, b]).strip()
+                                        for a, b in zip(self.extra_list, temp_list)
+                                    ]
                             else:
-                                self.extra_list = temp_list
+                                    self.extra_list = temp_list
 
                             # This answers if there's anything else to write to this current data column/line
                             if (
@@ -146,8 +142,7 @@ class RocketTableScraper:
                                         self.write = False
                                     else:
                                         self.write = True
-                                else:
-                                    self.write = True
+                                else: self.write = True
 
                         elif (
                             tr["style"] == "background-color:#e9e4e4;"
