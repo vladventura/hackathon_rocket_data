@@ -1,0 +1,4 @@
+autopep8==1.5.3
+beautifulsoup4==4.9.1
+requests==2.24.0
+
